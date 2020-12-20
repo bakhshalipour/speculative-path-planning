@@ -2,6 +2,8 @@
 
 ![til](./visualization/final_v2.gif)
 
+[video](https://youtu.be/zf6-Sv3IwXg)
+
 This repository provides the source code of *Speculative Path Planning* project, which was conducted as a part of CMU's 16-782 Planning and Decision-making in Robotics coursework. The repository consists of two parts: **Path Planning** and **Visualization**.
 
 ## Path Planning
