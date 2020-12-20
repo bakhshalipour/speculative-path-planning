@@ -1,0 +1,1458 @@
+Fri Dec 18 23:43:50 EST 2020
+Experiment Signature: <INPUT_FILE, EPSILON_VALUE, THREAD_COUNT, ENABLE_SPECULATION, PATH_FILE, CSV_FILE>
+Running <inputset/map1.txt, 1, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 35.754971, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=1, DO_SPECULATION=0, time=422.834, StraightExpansions=0.0232197, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.999933, NonSpeculativeActiveThreadsPerExpansion=0.999933, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=14814, __TotalActiveNonSpecThreads=14814, __TotalActiveSpecThreads=0
+Fri Dec 18 23:50:54 EST 2020 | Experiment: <inputset/map1.txt, 1, 1, 0, /dev/null, /dev/null> | Exec Time: 424 seconds
+
+
+Skipped t1-s1
+Running <inputset/map1.txt, 1, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 36.389496, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=0, time=410.304, StraightExpansions=0.0232197, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.06284, NonSpeculativeActiveThreadsPerExpansion=1.06284, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=15746, __TotalActiveNonSpecThreads=15746, __TotalActiveSpecThreads=0
+Fri Dec 18 23:57:48 EST 2020 | Experiment: <inputset/map1.txt, 1, 2, 0, /dev/null, /dev/null> | Exec Time: 411 seconds
+
+
+Running <inputset/map1.txt, 1, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 67.291506, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=1, time=226.711, StraightExpansions=0.0232197, SpeculativeUsefull=0.971868, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=1.08728, NonSpeculativeActiveThreadsPerExpansion=0.600202, SpeculativeActiveThreadsPerExpansion=0.487074
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=7013, __SpeculativeThreads=7216, __TotalSpecLoopIterations=7216, __TotalSpecAttempts=7216, __TotalActiveThreads=16108, __TotalActiveNonSpecThreads=8892, __TotalActiveSpecThreads=7216
+Sat Dec 19 00:01:39 EST 2020 | Experiment: <inputset/map1.txt, 1, 2, 1, /dev/null, /dev/null> | Exec Time: 228 seconds
+
+
+Running <inputset/map1.txt, 1, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 37.865432, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=0, time=390.905, StraightExpansions=0.0232197, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.12535, NonSpeculativeActiveThreadsPerExpansion=1.12535, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16672, __TotalActiveNonSpecThreads=16672, __TotalActiveSpecThreads=0
+Sat Dec 19 00:08:13 EST 2020 | Experiment: <inputset/map1.txt, 1, 4, 0, /dev/null, /dev/null> | Exec Time: 391 seconds
+
+
+Running <inputset/map1.txt, 1, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 136.461410, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=1, time=111.12, StraightExpansions=0.0232197, SpeculativeUsefull=0.955541, AverageSpecLoopIterations=1.26792, ActiveThreadsPerExpansion=1.16936, NonSpeculativeActiveThreadsPerExpansion=0.352548, SpeculativeActiveThreadsPerExpansion=0.816807
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=11563, __SpeculativeThreads=12101, __TotalSpecLoopIterations=5414, __TotalSpecAttempts=4270, __TotalActiveThreads=17324, __TotalActiveNonSpecThreads=5223, __TotalActiveSpecThreads=12101
+Sat Dec 19 00:10:08 EST 2020 | Experiment: <inputset/map1.txt, 1, 4, 1, /dev/null, /dev/null> | Exec Time: 112 seconds
+
+
+Running <inputset/map1.txt, 1, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 38.195041, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=0, time=387.466, StraightExpansions=0.0232197, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.14047, NonSpeculativeActiveThreadsPerExpansion=1.14047, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16896, __TotalActiveNonSpecThreads=16896, __TotalActiveSpecThreads=0
+Sat Dec 19 00:16:40 EST 2020 | Experiment: <inputset/map1.txt, 1, 8, 0, /dev/null, /dev/null> | Exec Time: 389 seconds
+
+
+Running <inputset/map1.txt, 1, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 266.018877, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=1, time=56.5449, StraightExpansions=0.0232197, SpeculativeUsefull=0.922281, AverageSpecLoopIterations=2.45336, ActiveThreadsPerExpansion=1.22113, NonSpeculativeActiveThreadsPerExpansion=0.18326, SpeculativeActiveThreadsPerExpansion=1.03787
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=14181, __SpeculativeThreads=15376, __TotalSpecLoopIterations=5628, __TotalSpecAttempts=2294, __TotalActiveThreads=18091, __TotalActiveNonSpecThreads=2715, __TotalActiveSpecThreads=15376
+Sat Dec 19 00:17:40 EST 2020 | Experiment: <inputset/map1.txt, 1, 8, 1, /dev/null, /dev/null> | Exec Time: 57 seconds
+
+
+Running <inputset/map1.txt, 1, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 38.047965, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=0, time=389.32, StraightExpansions=0.0232197, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.14047, NonSpeculativeActiveThreadsPerExpansion=1.14047, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16896, __TotalActiveNonSpecThreads=16896, __TotalActiveSpecThreads=0
+Sat Dec 19 00:24:13 EST 2020 | Experiment: <inputset/map1.txt, 1, 16, 0, /dev/null, /dev/null> | Exec Time: 390 seconds
+
+
+Running <inputset/map1.txt, 1, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 395.388538, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=1, time=37.4462, StraightExpansions=0.0232197, SpeculativeUsefull=0.865937, AverageSpecLoopIterations=3.95026, ActiveThreadsPerExpansion=1.29997, NonSpeculativeActiveThreadsPerExpansion=0.110226, SpeculativeActiveThreadsPerExpansion=1.18974
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=15263, __SpeculativeThreads=17626, __TotalSpecLoopIterations=5321, __TotalSpecAttempts=1347, __TotalActiveThreads=19259, __TotalActiveNonSpecThreads=1633, __TotalActiveSpecThreads=17626
+Sat Dec 19 00:24:54 EST 2020 | Experiment: <inputset/map1.txt, 1, 16, 1, /dev/null, /dev/null> | Exec Time: 38 seconds
+
+
+Running <inputset/map1.txt, 1, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 37.943117, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=0, time=389.89, StraightExpansions=0.0232197, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.14047, NonSpeculativeActiveThreadsPerExpansion=1.14047, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16896, __TotalActiveNonSpecThreads=16896, __TotalActiveSpecThreads=0
+Sat Dec 19 00:31:28 EST 2020 | Experiment: <inputset/map1.txt, 1, 32, 0, /dev/null, /dev/null> | Exec Time: 391 seconds
+
+
+Running <inputset/map1.txt, 1, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 400.194378, totalExpandedNodes=10000
+Results: map_file=inputset/map1.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=1, time=36.5883, StraightExpansions=0.0232197, SpeculativeUsefull=0.851034, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=1.3213, NonSpeculativeActiveThreadsPerExpansion=0.107391, SpeculativeActiveThreadsPerExpansion=1.2139
+DetailedResults: __StraightExpansions=344, __TotalExpansions=14815, __SpeculativeUsefull=15305, __SpeculativeThreads=17984, __TotalSpecLoopIterations=5240, __TotalSpecAttempts=1310, __TotalActiveThreads=19575, __TotalActiveNonSpecThreads=1591, __TotalActiveSpecThreads=17984
+Sat Dec 19 00:32:08 EST 2020 | Experiment: <inputset/map1.txt, 1, 32, 1, /dev/null, /dev/null> | Exec Time: 37 seconds
+
+
+Running <inputset/map1.txt, 1000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 67.606605, totalExpandedNodes=10000
+Expansion per second = 67.117560, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=1, DO_SPECULATION=0, time=419.864, StraightExpansions=0.156878, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.579296, NonSpeculativeActiveThreadsPerExpansion=0.579296, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=14874, __TotalActiveNonSpecThreads=14874, __TotalActiveSpecThreads=0
+Sat Dec 19 00:39:12 EST 2020 | Experiment: <inputset/map1.txt, 1000, 1, 0, /dev/null, /dev/null> | Exec Time: 421 seconds
+
+
+Skipped t1-s1
+Running <inputset/map1.txt, 1000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 68.243411, totalExpandedNodes=10000
+Expansion per second = 66.655735, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=0, time=414.957, StraightExpansions=0.156878, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.623384, NonSpeculativeActiveThreadsPerExpansion=0.623384, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16006, __TotalActiveNonSpecThreads=16006, __TotalActiveSpecThreads=0
+Sat Dec 19 00:46:11 EST 2020 | Experiment: <inputset/map1.txt, 1000, 2, 0, /dev/null, /dev/null> | Exec Time: 416 seconds
+
+
+Running <inputset/map1.txt, 1000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 117.037669, totalExpandedNodes=10000
+Expansion per second = 118.030109, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=1, time=240.028, StraightExpansions=0.156878, SpeculativeUsefull=0.963461, AverageSpecLoopIterations=1.01938, ActiveThreadsPerExpansion=0.640637, NonSpeculativeActiveThreadsPerExpansion=0.36244, SpeculativeActiveThreadsPerExpansion=0.278198
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=6882, __SpeculativeThreads=7143, __TotalSpecLoopIterations=7311, __TotalSpecAttempts=7172, __TotalActiveThreads=16449, __TotalActiveNonSpecThreads=9306, __TotalActiveSpecThreads=7143
+Sat Dec 19 00:50:15 EST 2020 | Experiment: <inputset/map1.txt, 1000, 2, 1, /dev/null, /dev/null> | Exec Time: 241 seconds
+
+
+Running <inputset/map1.txt, 1000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 72.847638, totalExpandedNodes=10000
+Expansion per second = 69.958613, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=0, time=392.049, StraightExpansions=0.156878, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.668406, NonSpeculativeActiveThreadsPerExpansion=0.668406, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17162, __TotalActiveNonSpecThreads=17162, __TotalActiveSpecThreads=0
+Sat Dec 19 00:56:51 EST 2020 | Experiment: <inputset/map1.txt, 1000, 4, 0, /dev/null, /dev/null> | Exec Time: 393 seconds
+
+
+Running <inputset/map1.txt, 1000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 235.991162, totalExpandedNodes=10000
+Expansion per second = 239.290226, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=1, time=117.781, StraightExpansions=0.156878, SpeculativeUsefull=0.947394, AverageSpecLoopIterations=1.81972, ActiveThreadsPerExpansion=0.702173, NonSpeculativeActiveThreadsPerExpansion=0.221686, SpeculativeActiveThreadsPerExpansion=0.480488
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=11688, __SpeculativeThreads=12337, __TotalSpecLoopIterations=8065, __TotalSpecAttempts=4432, __TotalActiveThreads=18029, __TotalActiveNonSpecThreads=5692, __TotalActiveSpecThreads=12337
+Sat Dec 19 00:58:52 EST 2020 | Experiment: <inputset/map1.txt, 1000, 4, 1, /dev/null, /dev/null> | Exec Time: 118 seconds
+
+
+Running <inputset/map1.txt, 1000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 72.267991, totalExpandedNodes=10000
+Expansion per second = 69.609838, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=0, time=392.181, StraightExpansions=0.156878, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.683596, NonSpeculativeActiveThreadsPerExpansion=0.683596, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17552, __TotalActiveNonSpecThreads=17552, __TotalActiveSpecThreads=0
+Sat Dec 19 01:05:28 EST 2020 | Experiment: <inputset/map1.txt, 1000, 8, 0, /dev/null, /dev/null> | Exec Time: 393 seconds
+
+
+Running <inputset/map1.txt, 1000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 413.595863, totalExpandedNodes=10000
+Expansion per second = 415.412938, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=1, time=67.1116, StraightExpansions=0.156878, SpeculativeUsefull=0.893516, AverageSpecLoopIterations=3.06449, ActiveThreadsPerExpansion=0.749727, NonSpeculativeActiveThreadsPerExpansion=0.12868, SpeculativeActiveThreadsPerExpansion=0.621047
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=14248, __SpeculativeThreads=15946, __TotalSpecLoopIterations=8363, __TotalSpecAttempts=2729, __TotalActiveThreads=19250, __TotalActiveNonSpecThreads=3304, __TotalActiveSpecThreads=15946
+Sat Dec 19 01:06:39 EST 2020 | Experiment: <inputset/map1.txt, 1000, 8, 1, /dev/null, /dev/null> | Exec Time: 68 seconds
+
+
+Running <inputset/map1.txt, 1000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 72.294831, totalExpandedNodes=10000
+Expansion per second = 69.760165, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=0, time=391.232, StraightExpansions=0.156878, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.683596, NonSpeculativeActiveThreadsPerExpansion=0.683596, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17552, __TotalActiveNonSpecThreads=17552, __TotalActiveSpecThreads=0
+Sat Dec 19 01:13:14 EST 2020 | Experiment: <inputset/map1.txt, 1000, 16, 0, /dev/null, /dev/null> | Exec Time: 392 seconds
+
+
+Running <inputset/map1.txt, 1000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 497.499474, totalExpandedNodes=10000
+Expansion per second = 494.614327, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=1, time=55.1517, StraightExpansions=0.156878, SpeculativeUsefull=0.835188, AverageSpecLoopIterations=3.94716, ActiveThreadsPerExpansion=0.79954, NonSpeculativeActiveThreadsPerExpansion=0.096043, SpeculativeActiveThreadsPerExpansion=0.703497
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=15086, __SpeculativeThreads=18063, __TotalSpecLoopIterations=8143, __TotalSpecAttempts=2063, __TotalActiveThreads=20529, __TotalActiveNonSpecThreads=2466, __TotalActiveSpecThreads=18063
+Sat Dec 19 01:14:13 EST 2020 | Experiment: <inputset/map1.txt, 1000, 16, 1, /dev/null, /dev/null> | Exec Time: 56 seconds
+
+
+Running <inputset/map1.txt, 1000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 72.022374, totalExpandedNodes=10000
+Expansion per second = 69.703209, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=0, time=391.724, StraightExpansions=0.156878, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.683596, NonSpeculativeActiveThreadsPerExpansion=0.683596, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17552, __TotalActiveNonSpecThreads=17552, __TotalActiveSpecThreads=0
+Sat Dec 19 01:20:49 EST 2020 | Experiment: <inputset/map1.txt, 1000, 32, 0, /dev/null, /dev/null> | Exec Time: 393 seconds
+
+
+Running <inputset/map1.txt, 1000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 515.158784, totalExpandedNodes=10000
+Expansion per second = 510.051420, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=1, time=53.2098, StraightExpansions=0.156878, SpeculativeUsefull=0.827794, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=0.806084, NonSpeculativeActiveThreadsPerExpansion=0.0947967, SpeculativeActiveThreadsPerExpansion=0.711287
+DetailedResults: __StraightExpansions=4028, __TotalExpansions=25676, __SpeculativeUsefull=15118, __SpeculativeThreads=18263, __TotalSpecLoopIterations=8080, __TotalSpecAttempts=2020, __TotalActiveThreads=20697, __TotalActiveNonSpecThreads=2434, __TotalActiveSpecThreads=18263
+Sat Dec 19 01:21:46 EST 2020 | Experiment: <inputset/map1.txt, 1000, 32, 1, /dev/null, /dev/null> | Exec Time: 54 seconds
+
+
+Running <inputset/map1.txt, 1000000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 67.558678, totalExpandedNodes=10000
+Expansion per second = 67.241666, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=1, DO_SPECULATION=0, time=417.75, StraightExpansions=0.184732, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.579279, NonSpeculativeActiveThreadsPerExpansion=0.579279, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=14873, __TotalActiveNonSpecThreads=14873, __TotalActiveSpecThreads=0
+Sat Dec 19 01:28:48 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 1, 0, /dev/null, /dev/null> | Exec Time: 419 seconds
+
+
+Skipped t1-s1
+Running <inputset/map1.txt, 1000000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 69.721696, totalExpandedNodes=10000
+Expansion per second = 67.817026, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=0, time=408.389, StraightExpansions=0.184732, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.623369, NonSpeculativeActiveThreadsPerExpansion=0.623369, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16005, __TotalActiveNonSpecThreads=16005, __TotalActiveSpecThreads=0
+Sat Dec 19 01:35:40 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 2, 0, /dev/null, /dev/null> | Exec Time: 409 seconds
+
+
+Running <inputset/map1.txt, 1000000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 116.796873, totalExpandedNodes=10000
+Expansion per second = 118.211061, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=1, time=239.126, StraightExpansions=0.184732, SpeculativeUsefull=0.963596, AverageSpecLoopIterations=1.01938, ActiveThreadsPerExpansion=0.640584, NonSpeculativeActiveThreadsPerExpansion=0.362415, SpeculativeActiveThreadsPerExpansion=0.278169
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=6882, __SpeculativeThreads=7142, __TotalSpecLoopIterations=7310, __TotalSpecAttempts=7171, __TotalActiveThreads=16447, __TotalActiveNonSpecThreads=9305, __TotalActiveSpecThreads=7142
+Sat Dec 19 01:39:43 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 2, 1, /dev/null, /dev/null> | Exec Time: 240 seconds
+
+
+Running <inputset/map1.txt, 1000000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 72.029317, totalExpandedNodes=10000
+Expansion per second = 69.663182, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=0, time=392.936, StraightExpansions=0.184732, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.668393, NonSpeculativeActiveThreadsPerExpansion=0.668393, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17161, __TotalActiveNonSpecThreads=17161, __TotalActiveSpecThreads=0
+Sat Dec 19 01:46:19 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 4, 0, /dev/null, /dev/null> | Exec Time: 393 seconds
+
+
+Running <inputset/map1.txt, 1000000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 237.656089, totalExpandedNodes=10000
+Expansion per second = 241.108631, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=1, time=116.379, StraightExpansions=0.184732, SpeculativeUsefull=0.947002, AverageSpecLoopIterations=1.81954, ActiveThreadsPerExpansion=0.702356, NonSpeculativeActiveThreadsPerExpansion=0.221733, SpeculativeActiveThreadsPerExpansion=0.480623
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=11686, __SpeculativeThreads=12340, __TotalSpecLoopIterations=8066, __TotalSpecAttempts=4433, __TotalActiveThreads=18033, __TotalActiveNonSpecThreads=5693, __TotalActiveSpecThreads=12340
+Sat Dec 19 01:48:20 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 4, 1, /dev/null, /dev/null> | Exec Time: 118 seconds
+
+
+Running <inputset/map1.txt, 1000000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 73.963662, totalExpandedNodes=10000
+Expansion per second = 70.361581, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=0, time=387.992, StraightExpansions=0.184732, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.683583, NonSpeculativeActiveThreadsPerExpansion=0.683583, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17551, __TotalActiveNonSpecThreads=17551, __TotalActiveSpecThreads=0
+Sat Dec 19 01:54:51 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 8, 0, /dev/null, /dev/null> | Exec Time: 388 seconds
+
+
+Running <inputset/map1.txt, 1000000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 414.135372, totalExpandedNodes=10000
+Expansion per second = 414.573351, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=1, time=67.0824, StraightExpansions=0.184732, SpeculativeUsefull=0.892991, AverageSpecLoopIterations=3.06628, ActiveThreadsPerExpansion=0.750068, NonSpeculativeActiveThreadsPerExpansion=0.128763, SpeculativeActiveThreadsPerExpansion=0.621305
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=14245, __SpeculativeThreads=15952, __TotalSpecLoopIterations=8374, __TotalSpecAttempts=2731, __TotalActiveThreads=19258, __TotalActiveNonSpecThreads=3306, __TotalActiveSpecThreads=15952
+Sat Dec 19 01:56:02 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 8, 1, /dev/null, /dev/null> | Exec Time: 68 seconds
+
+
+Running <inputset/map1.txt, 1000000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 72.503703, totalExpandedNodes=10000
+Expansion per second = 69.765351, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=0, time=391.075, StraightExpansions=0.184732, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.683583, NonSpeculativeActiveThreadsPerExpansion=0.683583, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17551, __TotalActiveNonSpecThreads=17551, __TotalActiveSpecThreads=0
+Sat Dec 19 02:02:37 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 16, 0, /dev/null, /dev/null> | Exec Time: 392 seconds
+
+
+Running <inputset/map1.txt, 1000000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 500.719840, totalExpandedNodes=10000
+Expansion per second = 494.295488, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=1, time=54.918, StraightExpansions=0.184732, SpeculativeUsefull=0.835133, AverageSpecLoopIterations=3.94716, ActiveThreadsPerExpansion=0.799572, NonSpeculativeActiveThreadsPerExpansion=0.0960467, SpeculativeActiveThreadsPerExpansion=0.703525
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=15085, __SpeculativeThreads=18063, __TotalSpecLoopIterations=8143, __TotalSpecAttempts=2063, __TotalActiveThreads=20529, __TotalActiveNonSpecThreads=2466, __TotalActiveSpecThreads=18063
+Sat Dec 19 02:03:36 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 16, 1, /dev/null, /dev/null> | Exec Time: 56 seconds
+
+
+Running <inputset/map1.txt, 1000000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 73.378294, totalExpandedNodes=10000
+Expansion per second = 70.256919, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=0, time=389.302, StraightExpansions=0.184732, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.683583, NonSpeculativeActiveThreadsPerExpansion=0.683583, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=17551, __TotalActiveNonSpecThreads=17551, __TotalActiveSpecThreads=0
+Sat Dec 19 02:10:09 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 32, 0, /dev/null, /dev/null> | Exec Time: 390 seconds
+
+
+Running <inputset/map1.txt, 1000000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=159, Y=208, Target: X=338, Y=341, Collision Threshold: 100
+Expansion per second = 514.289613, totalExpandedNodes=10000
+Expansion per second = 511.076328, totalExpandedNodes=20000
+Results: map_file=inputset/map1.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=1, time=53.4582, StraightExpansions=0.184732, SpeculativeUsefull=0.82705, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=0.806699, NonSpeculativeActiveThreadsPerExpansion=0.0948393, SpeculativeActiveThreadsPerExpansion=0.71186
+DetailedResults: __StraightExpansions=4743, __TotalExpansions=25675, __SpeculativeUsefull=15116, __SpeculativeThreads=18277, __TotalSpecLoopIterations=8084, __TotalSpecAttempts=2021, __TotalActiveThreads=20712, __TotalActiveNonSpecThreads=2435, __TotalActiveSpecThreads=18277
+Sat Dec 19 02:11:07 EST 2020 | Experiment: <inputset/map1.txt, 1000000, 32, 1, /dev/null, /dev/null> | Exec Time: 54 seconds
+
+
+Running <inputset/map2.txt, 1, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 37.057334, totalExpandedNodes=10000
+Expansion per second = 37.795319, totalExpandedNodes=20000
+Expansion per second = 38.576635, totalExpandedNodes=30000
+Expansion per second = 38.889259, totalExpandedNodes=40000
+Expansion per second = 38.764741, totalExpandedNodes=50000
+Expansion per second = 38.727083, totalExpandedNodes=60000
+Expansion per second = 38.739997, totalExpandedNodes=70000
+Expansion per second = 38.841067, totalExpandedNodes=80000
+Expansion per second = 38.896010, totalExpandedNodes=90000
+Expansion per second = 39.106062, totalExpandedNodes=100000
+Expansion per second = 39.258079, totalExpandedNodes=110000
+Expansion per second = 39.361251, totalExpandedNodes=120000
+Expansion per second = 39.435310, totalExpandedNodes=130000
+Expansion per second = 39.346325, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=1, DO_SPECULATION=0, time=3618.13, StraightExpansions=0.00715752, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.999993, NonSpeculativeActiveThreadsPerExpansion=0.999993, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=142227, __TotalActiveNonSpecThreads=142227, __TotalActiveSpecThreads=0
+Sat Dec 19 03:11:29 EST 2020 | Experiment: <inputset/map2.txt, 1, 1, 0, /dev/null, /dev/null> | Exec Time: 3620 seconds
+
+
+Skipped t1-s1
+Running <inputset/map2.txt, 1, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 37.038336, totalExpandedNodes=10000
+Expansion per second = 37.873941, totalExpandedNodes=20000
+Expansion per second = 38.637896, totalExpandedNodes=30000
+Expansion per second = 39.217281, totalExpandedNodes=40000
+Expansion per second = 39.475070, totalExpandedNodes=50000
+Expansion per second = 39.550677, totalExpandedNodes=60000
+Expansion per second = 39.671233, totalExpandedNodes=70000
+Expansion per second = 39.733576, totalExpandedNodes=80000
+Expansion per second = 39.672713, totalExpandedNodes=90000
+Expansion per second = 39.655630, totalExpandedNodes=100000
+Expansion per second = 39.480118, totalExpandedNodes=110000
+Expansion per second = 39.340543, totalExpandedNodes=120000
+Expansion per second = 39.230234, totalExpandedNodes=130000
+Expansion per second = 39.075062, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=0, time=3644.09, StraightExpansions=0.00715752, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.01594, NonSpeculativeActiveThreadsPerExpansion=1.01594, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=144495, __TotalActiveNonSpecThreads=144495, __TotalActiveSpecThreads=0
+Sat Dec 19 04:12:18 EST 2020 | Experiment: <inputset/map2.txt, 1, 2, 0, /dev/null, /dev/null> | Exec Time: 3646 seconds
+
+
+Running <inputset/map2.txt, 1, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 65.555283, totalExpandedNodes=10000
+Expansion per second = 67.083012, totalExpandedNodes=20000
+Expansion per second = 68.788938, totalExpandedNodes=30000
+Expansion per second = 70.226522, totalExpandedNodes=40000
+Expansion per second = 70.980428, totalExpandedNodes=50000
+Expansion per second = 71.507520, totalExpandedNodes=60000
+Expansion per second = 71.843362, totalExpandedNodes=70000
+Expansion per second = 72.388081, totalExpandedNodes=80000
+Expansion per second = 72.624994, totalExpandedNodes=90000
+Expansion per second = 73.009379, totalExpandedNodes=100000
+Expansion per second = 73.308428, totalExpandedNodes=110000
+Expansion per second = 73.494928, totalExpandedNodes=120000
+Expansion per second = 73.479337, totalExpandedNodes=130000
+Expansion per second = 73.086166, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=1, time=1949.61, StraightExpansions=0.00715752, SpeculativeUsefull=0.986756, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=1.02426, NonSpeculativeActiveThreadsPerExpansion=0.527878, SpeculativeActiveThreadsPerExpansion=0.496379
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=69664, __SpeculativeThreads=70599, __TotalSpecLoopIterations=70599, __TotalSpecAttempts=70599, __TotalActiveThreads=145678, __TotalActiveNonSpecThreads=75079, __TotalActiveSpecThreads=70599
+Sat Dec 19 04:44:53 EST 2020 | Experiment: <inputset/map2.txt, 1, 2, 1, /dev/null, /dev/null> | Exec Time: 1952 seconds
+
+
+Running <inputset/map2.txt, 1, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 38.168855, totalExpandedNodes=10000
+Expansion per second = 38.664517, totalExpandedNodes=20000
+Expansion per second = 39.150667, totalExpandedNodes=30000
+Expansion per second = 39.687931, totalExpandedNodes=40000
+Expansion per second = 39.867033, totalExpandedNodes=50000
+Expansion per second = 39.984931, totalExpandedNodes=60000
+Expansion per second = 40.038733, totalExpandedNodes=70000
+Expansion per second = 40.136806, totalExpandedNodes=80000
+Expansion per second = 39.898813, totalExpandedNodes=90000
+Expansion per second = 39.788279, totalExpandedNodes=100000
+Expansion per second = 39.664426, totalExpandedNodes=110000
+Expansion per second = 39.572645, totalExpandedNodes=120000
+Expansion per second = 39.479305, totalExpandedNodes=130000
+Expansion per second = 39.447426, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=0, time=3607.78, StraightExpansions=0.00715752, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.03189, NonSpeculativeActiveThreadsPerExpansion=1.03189, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=146764, __TotalActiveNonSpecThreads=146764, __TotalActiveSpecThreads=0
+Sat Dec 19 05:45:06 EST 2020 | Experiment: <inputset/map2.txt, 1, 4, 0, /dev/null, /dev/null> | Exec Time: 3610 seconds
+
+
+Running <inputset/map2.txt, 1, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 137.707300, totalExpandedNodes=10000
+Expansion per second = 139.069119, totalExpandedNodes=20000
+Expansion per second = 142.946004, totalExpandedNodes=30000
+Expansion per second = 146.186792, totalExpandedNodes=40000
+Expansion per second = 147.820899, totalExpandedNodes=50000
+Expansion per second = 148.855381, totalExpandedNodes=60000
+Expansion per second = 150.107578, totalExpandedNodes=70000
+Expansion per second = 151.042615, totalExpandedNodes=80000
+Expansion per second = 151.291704, totalExpandedNodes=90000
+Expansion per second = 151.696120, totalExpandedNodes=100000
+Expansion per second = 151.935490, totalExpandedNodes=110000
+Expansion per second = 151.973554, totalExpandedNodes=120000
+Expansion per second = 152.092508, totalExpandedNodes=130000
+Expansion per second = 151.128611, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=1, time=943.148, StraightExpansions=0.00715752, SpeculativeUsefull=0.984176, AverageSpecLoopIterations=1.22113, ActiveThreadsPerExpansion=1.04713, NonSpeculativeActiveThreadsPerExpansion=0.277983, SpeculativeActiveThreadsPerExpansion=0.769145
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=107663, __SpeculativeThreads=109394, __TotalSpecLoopIterations=45227, __TotalSpecAttempts=37037, __TotalActiveThreads=148931, __TotalActiveNonSpecThreads=39537, __TotalActiveSpecThreads=109394
+Sat Dec 19 06:00:54 EST 2020 | Experiment: <inputset/map2.txt, 1, 4, 1, /dev/null, /dev/null> | Exec Time: 945 seconds
+
+
+Running <inputset/map2.txt, 1, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 38.301279, totalExpandedNodes=10000
+Expansion per second = 39.007819, totalExpandedNodes=20000
+Expansion per second = 39.680704, totalExpandedNodes=30000
+Expansion per second = 39.982680, totalExpandedNodes=40000
+Expansion per second = 39.972610, totalExpandedNodes=50000
+Expansion per second = 40.119018, totalExpandedNodes=60000
+Expansion per second = 40.143469, totalExpandedNodes=70000
+Expansion per second = 40.206122, totalExpandedNodes=80000
+Expansion per second = 40.200185, totalExpandedNodes=90000
+Expansion per second = 40.218195, totalExpandedNodes=100000
+Expansion per second = 40.142624, totalExpandedNodes=110000
+Expansion per second = 39.966445, totalExpandedNodes=120000
+Expansion per second = 39.809672, totalExpandedNodes=130000
+Expansion per second = 39.717780, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=0, time=3582.32, StraightExpansions=0.00715752, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.0378, NonSpeculativeActiveThreadsPerExpansion=1.0378, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=147604, __TotalActiveNonSpecThreads=147604, __TotalActiveSpecThreads=0
+Sat Dec 19 07:00:41 EST 2020 | Experiment: <inputset/map2.txt, 1, 8, 0, /dev/null, /dev/null> | Exec Time: 3584 seconds
+
+
+Running <inputset/map2.txt, 1, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 269.503160, totalExpandedNodes=10000
+Expansion per second = 272.791744, totalExpandedNodes=20000
+Expansion per second = 280.268075, totalExpandedNodes=30000
+Expansion per second = 289.747800, totalExpandedNodes=40000
+Expansion per second = 294.999353, totalExpandedNodes=50000
+Expansion per second = 298.233289, totalExpandedNodes=60000
+Expansion per second = 301.102914, totalExpandedNodes=70000
+Expansion per second = 302.964660, totalExpandedNodes=80000
+Expansion per second = 303.259272, totalExpandedNodes=90000
+Expansion per second = 304.548139, totalExpandedNodes=100000
+Expansion per second = 305.343123, totalExpandedNodes=110000
+Expansion per second = 305.793226, totalExpandedNodes=120000
+Expansion per second = 305.839515, totalExpandedNodes=130000
+Expansion per second = 304.311297, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=1, time=469.117, StraightExpansions=0.00715752, SpeculativeUsefull=0.970556, AverageSpecLoopIterations=2.59195, ActiveThreadsPerExpansion=1.06497, NonSpeculativeActiveThreadsPerExpansion=0.142293, SpeculativeActiveThreadsPerExpansion=0.922673
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=127366, __SpeculativeThreads=131230, __TotalSpecLoopIterations=49413, __TotalSpecAttempts=19064, __TotalActiveThreads=151468, __TotalActiveNonSpecThreads=20238, __TotalActiveSpecThreads=131230
+Sat Dec 19 07:08:35 EST 2020 | Experiment: <inputset/map2.txt, 1, 8, 1, /dev/null, /dev/null> | Exec Time: 471 seconds
+
+
+Running <inputset/map2.txt, 1, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 38.368594, totalExpandedNodes=10000
+Expansion per second = 38.973738, totalExpandedNodes=20000
+Expansion per second = 39.685327, totalExpandedNodes=30000
+Expansion per second = 40.090205, totalExpandedNodes=40000
+Expansion per second = 40.223859, totalExpandedNodes=50000
+Expansion per second = 40.234342, totalExpandedNodes=60000
+Expansion per second = 40.317372, totalExpandedNodes=70000
+Expansion per second = 40.408833, totalExpandedNodes=80000
+Expansion per second = 40.322406, totalExpandedNodes=90000
+Expansion per second = 40.305721, totalExpandedNodes=100000
+Expansion per second = 40.268503, totalExpandedNodes=110000
+Expansion per second = 40.202015, totalExpandedNodes=120000
+Expansion per second = 40.138126, totalExpandedNodes=130000
+Expansion per second = 40.079362, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=0, time=3550.38, StraightExpansions=0.00715752, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.0378, NonSpeculativeActiveThreadsPerExpansion=1.0378, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=147604, __TotalActiveNonSpecThreads=147604, __TotalActiveSpecThreads=0
+Sat Dec 19 08:07:50 EST 2020 | Experiment: <inputset/map2.txt, 1, 16, 0, /dev/null, /dev/null> | Exec Time: 3552 seconds
+
+
+Running <inputset/map2.txt, 1, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 413.405799, totalExpandedNodes=10000
+Expansion per second = 413.564237, totalExpandedNodes=20000
+Expansion per second = 426.335319, totalExpandedNodes=30000
+Expansion per second = 443.464338, totalExpandedNodes=40000
+Expansion per second = 455.484310, totalExpandedNodes=50000
+Expansion per second = 464.307668, totalExpandedNodes=60000
+Expansion per second = 469.422718, totalExpandedNodes=70000
+Expansion per second = 475.561085, totalExpandedNodes=80000
+Expansion per second = 478.491436, totalExpandedNodes=90000
+Expansion per second = 483.481963, totalExpandedNodes=100000
+Expansion per second = 486.509601, totalExpandedNodes=110000
+Expansion per second = 489.567759, totalExpandedNodes=120000
+Expansion per second = 490.497022, totalExpandedNodes=130000
+Expansion per second = 487.021048, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=1, time=293.67, StraightExpansions=0.00715752, SpeculativeUsefull=0.952287, AverageSpecLoopIterations=3.9836, ActiveThreadsPerExpansion=1.08583, NonSpeculativeActiveThreadsPerExpansion=0.0790843, SpeculativeActiveThreadsPerExpansion=1.00675
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=136356, __SpeculativeThreads=143188, __TotalSpecLoopIterations=41549, __TotalSpecAttempts=10430, __TotalActiveThreads=154436, __TotalActiveNonSpecThreads=11248, __TotalActiveSpecThreads=143188
+Sat Dec 19 08:12:49 EST 2020 | Experiment: <inputset/map2.txt, 1, 16, 1, /dev/null, /dev/null> | Exec Time: 296 seconds
+
+
+Running <inputset/map2.txt, 1, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 38.171325, totalExpandedNodes=10000
+Expansion per second = 38.473979, totalExpandedNodes=20000
+Expansion per second = 38.777159, totalExpandedNodes=30000
+Expansion per second = 39.044978, totalExpandedNodes=40000
+Expansion per second = 39.256289, totalExpandedNodes=50000
+Expansion per second = 39.448772, totalExpandedNodes=60000
+Expansion per second = 39.585770, totalExpandedNodes=70000
+Expansion per second = 39.738167, totalExpandedNodes=80000
+Expansion per second = 39.806573, totalExpandedNodes=90000
+Expansion per second = 39.848027, totalExpandedNodes=100000
+Expansion per second = 39.925801, totalExpandedNodes=110000
+Expansion per second = 39.905489, totalExpandedNodes=120000
+Expansion per second = 39.901210, totalExpandedNodes=130000
+Expansion per second = 39.911575, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=0, time=3565.86, StraightExpansions=0.00715752, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.0378, NonSpeculativeActiveThreadsPerExpansion=1.0378, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=147604, __TotalActiveNonSpecThreads=147604, __TotalActiveSpecThreads=0
+Sat Dec 19 09:12:20 EST 2020 | Experiment: <inputset/map2.txt, 1, 32, 0, /dev/null, /dev/null> | Exec Time: 3568 seconds
+
+
+Running <inputset/map2.txt, 1, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 457.166921, totalExpandedNodes=10000
+Expansion per second = 442.463144, totalExpandedNodes=20000
+Expansion per second = 453.730989, totalExpandedNodes=30000
+Expansion per second = 476.470693, totalExpandedNodes=40000
+Expansion per second = 490.918916, totalExpandedNodes=50000
+Expansion per second = 504.562510, totalExpandedNodes=60000
+Expansion per second = 508.492942, totalExpandedNodes=70000
+Expansion per second = 513.412493, totalExpandedNodes=80000
+Expansion per second = 511.366243, totalExpandedNodes=90000
+Expansion per second = 514.928418, totalExpandedNodes=100000
+Expansion per second = 516.145142, totalExpandedNodes=110000
+Expansion per second = 514.962675, totalExpandedNodes=120000
+Expansion per second = 513.543098, totalExpandedNodes=130000
+Expansion per second = 507.624942, totalExpandedNodes=140000
+Results: map_file=inputset/map2.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=1, time=282.409, StraightExpansions=0.00715752, SpeculativeUsefull=0.951268, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=1.08695, NonSpeculativeActiveThreadsPerExpansion=0.0782968, SpeculativeActiveThreadsPerExpansion=1.00866
+DetailedResults: __StraightExpansions=1018, __TotalExpansions=142228, __SpeculativeUsefull=136468, __SpeculativeThreads=143459, __TotalSpecLoopIterations=40956, __TotalSpecAttempts=10239, __TotalActiveThreads=154595, __TotalActiveNonSpecThreads=11136, __TotalActiveSpecThreads=143459
+Sat Dec 19 09:17:07 EST 2020 | Experiment: <inputset/map2.txt, 1, 32, 1, /dev/null, /dev/null> | Exec Time: 284 seconds
+
+
+Running <inputset/map2.txt, 1000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 55.752039, totalExpandedNodes=10000
+Expansion per second = 62.985340, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=1, DO_SPECULATION=0, time=392.617, StraightExpansions=0.0443787, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.556509, NonSpeculativeActiveThreadsPerExpansion=0.556509, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=13167, __TotalActiveNonSpecThreads=13167, __TotalActiveSpecThreads=0
+Sat Dec 19 09:23:44 EST 2020 | Experiment: <inputset/map2.txt, 1000, 1, 0, /dev/null, /dev/null> | Exec Time: 394 seconds
+
+
+Skipped t1-s1
+Running <inputset/map2.txt, 1000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 60.351251, totalExpandedNodes=10000
+Expansion per second = 65.607985, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=0, time=369.461, StraightExpansions=0.0443787, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.612511, NonSpeculativeActiveThreadsPerExpansion=0.612511, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=14492, __TotalActiveNonSpecThreads=14492, __TotalActiveSpecThreads=0
+Sat Dec 19 09:29:57 EST 2020 | Experiment: <inputset/map2.txt, 1000, 2, 0, /dev/null, /dev/null> | Exec Time: 370 seconds
+
+
+Running <inputset/map2.txt, 1000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 93.878903, totalExpandedNodes=10000
+Expansion per second = 110.821276, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=1, time=222.998, StraightExpansions=0.0443787, SpeculativeUsefull=0.9888, AverageSpecLoopIterations=1.07325, ActiveThreadsPerExpansion=0.616103, NonSpeculativeActiveThreadsPerExpansion=0.367033, SpeculativeActiveThreadsPerExpansion=0.24907
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=5827, __SpeculativeThreads=5893, __TotalSpecLoopIterations=6476, __TotalSpecAttempts=6034, __TotalActiveThreads=14577, __TotalActiveNonSpecThreads=8684, __TotalActiveSpecThreads=5893
+Sat Dec 19 09:33:44 EST 2020 | Experiment: <inputset/map2.txt, 1000, 2, 1, /dev/null, /dev/null> | Exec Time: 224 seconds
+
+
+Running <inputset/map2.txt, 1000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 66.895487, totalExpandedNodes=10000
+Expansion per second = 69.065612, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=0, time=350.756, StraightExpansions=0.0443787, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.668639, NonSpeculativeActiveThreadsPerExpansion=0.668639, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=15820, __TotalActiveNonSpecThreads=15820, __TotalActiveSpecThreads=0
+Sat Dec 19 09:39:38 EST 2020 | Experiment: <inputset/map2.txt, 1000, 4, 0, /dev/null, /dev/null> | Exec Time: 351 seconds
+
+
+Running <inputset/map2.txt, 1000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 189.142867, totalExpandedNodes=10000
+Expansion per second = 222.677779, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=1, time=112.054, StraightExpansions=0.0443787, SpeculativeUsefull=0.974395, AverageSpecLoopIterations=2.41978, ActiveThreadsPerExpansion=0.698056, NonSpeculativeActiveThreadsPerExpansion=0.252367, SpeculativeActiveThreadsPerExpansion=0.445689
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=10275, __SpeculativeThreads=10545, __TotalSpecLoopIterations=9788, __TotalSpecAttempts=4045, __TotalActiveThreads=16516, __TotalActiveNonSpecThreads=5971, __TotalActiveSpecThreads=10545
+Sat Dec 19 09:41:34 EST 2020 | Experiment: <inputset/map2.txt, 1000, 4, 1, /dev/null, /dev/null> | Exec Time: 113 seconds
+
+
+Running <inputset/map2.txt, 1000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 67.812718, totalExpandedNodes=10000
+Expansion per second = 69.275435, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=0, time=344.652, StraightExpansions=0.0443787, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.701944, NonSpeculativeActiveThreadsPerExpansion=0.701944, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16608, __TotalActiveNonSpecThreads=16608, __TotalActiveSpecThreads=0
+Sat Dec 19 09:47:23 EST 2020 | Experiment: <inputset/map2.txt, 1000, 8, 0, /dev/null, /dev/null> | Exec Time: 346 seconds
+
+
+Running <inputset/map2.txt, 1000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 283.941817, totalExpandedNodes=10000
+Expansion per second = 320.760087, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=1, time=75.4909, StraightExpansions=0.0443787, SpeculativeUsefull=0.956154, AverageSpecLoopIterations=3.49053, ActiveThreadsPerExpansion=0.7265, NonSpeculativeActiveThreadsPerExpansion=0.166441, SpeculativeActiveThreadsPerExpansion=0.560059
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=12670, __SpeculativeThreads=13251, __TotalSpecLoopIterations=10688, __TotalSpecAttempts=3062, __TotalActiveThreads=17189, __TotalActiveNonSpecThreads=3938, __TotalActiveSpecThreads=13251
+Sat Dec 19 09:48:42 EST 2020 | Experiment: <inputset/map2.txt, 1000, 8, 1, /dev/null, /dev/null> | Exec Time: 76 seconds
+
+
+Running <inputset/map2.txt, 1000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 68.256951, totalExpandedNodes=10000
+Expansion per second = 69.896066, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=0, time=341.041, StraightExpansions=0.0443787, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.701944, NonSpeculativeActiveThreadsPerExpansion=0.701944, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16608, __TotalActiveNonSpecThreads=16608, __TotalActiveSpecThreads=0
+Sat Dec 19 09:54:27 EST 2020 | Experiment: <inputset/map2.txt, 1000, 16, 0, /dev/null, /dev/null> | Exec Time: 342 seconds
+
+
+Running <inputset/map2.txt, 1000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 313.498159, totalExpandedNodes=10000
+Expansion per second = 347.188539, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=1, time=69.1133, StraightExpansions=0.0443787, SpeculativeUsefull=0.928696, AverageSpecLoopIterations=3.94864, ActiveThreadsPerExpansion=0.745139, NonSpeculativeActiveThreadsPerExpansion=0.139349, SpeculativeActiveThreadsPerExpansion=0.60579
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=13311, __SpeculativeThreads=14333, __TotalSpecLoopIterations=10610, __TotalSpecAttempts=2687, __TotalActiveThreads=17630, __TotalActiveNonSpecThreads=3297, __TotalActiveSpecThreads=14333
+Sat Dec 19 09:55:40 EST 2020 | Experiment: <inputset/map2.txt, 1000, 16, 1, /dev/null, /dev/null> | Exec Time: 70 seconds
+
+
+Running <inputset/map2.txt, 1000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 68.143770, totalExpandedNodes=10000
+Expansion per second = 71.044929, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=0, time=334.758, StraightExpansions=0.0443787, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.701944, NonSpeculativeActiveThreadsPerExpansion=0.701944, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16608, __TotalActiveNonSpecThreads=16608, __TotalActiveSpecThreads=0
+Sat Dec 19 10:01:18 EST 2020 | Experiment: <inputset/map2.txt, 1000, 32, 0, /dev/null, /dev/null> | Exec Time: 335 seconds
+
+
+Running <inputset/map2.txt, 1000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 310.488589, totalExpandedNodes=10000
+Expansion per second = 346.051926, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=1, time=68.5816, StraightExpansions=0.0443787, SpeculativeUsefull=0.917655, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=0.752409, NonSpeculativeActiveThreadsPerExpansion=0.13956, SpeculativeActiveThreadsPerExpansion=0.612849
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23660, __SpeculativeUsefull=13306, __SpeculativeThreads=14500, __TotalSpecLoopIterations=10556, __TotalSpecAttempts=2639, __TotalActiveThreads=17802, __TotalActiveNonSpecThreads=3302, __TotalActiveSpecThreads=14500
+Sat Dec 19 10:02:31 EST 2020 | Experiment: <inputset/map2.txt, 1000, 32, 1, /dev/null, /dev/null> | Exec Time: 70 seconds
+
+
+Running <inputset/map2.txt, 1000000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 56.382138, totalExpandedNodes=10000
+Expansion per second = 64.365576, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=1, DO_SPECULATION=0, time=384.589, StraightExpansions=0.0445255, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.556653, NonSpeculativeActiveThreadsPerExpansion=0.556653, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=13127, __TotalActiveNonSpecThreads=13127, __TotalActiveSpecThreads=0
+Sat Dec 19 10:08:59 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 1, 0, /dev/null, /dev/null> | Exec Time: 385 seconds
+
+
+Skipped t1-s1
+Running <inputset/map2.txt, 1000000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 60.878025, totalExpandedNodes=10000
+Expansion per second = 66.547219, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=0, time=365.064, StraightExpansions=0.0445255, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.61284, NonSpeculativeActiveThreadsPerExpansion=0.61284, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=14452, __TotalActiveNonSpecThreads=14452, __TotalActiveSpecThreads=0
+Sat Dec 19 10:15:08 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 2, 0, /dev/null, /dev/null> | Exec Time: 366 seconds
+
+
+Running <inputset/map2.txt, 1000000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 93.930187, totalExpandedNodes=10000
+Expansion per second = 110.263833, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=1, time=223.897, StraightExpansions=0.0445255, SpeculativeUsefull=0.988424, AverageSpecLoopIterations=1.07348, ActiveThreadsPerExpansion=0.61653, NonSpeculativeActiveThreadsPerExpansion=0.367441, SpeculativeActiveThreadsPerExpansion=0.249088
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=5806, __SpeculativeThreads=5874, __TotalSpecLoopIterations=6457, __TotalSpecAttempts=6015, __TotalActiveThreads=14539, __TotalActiveNonSpecThreads=8665, __TotalActiveSpecThreads=5874
+Sat Dec 19 10:18:56 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 2, 1, /dev/null, /dev/null> | Exec Time: 225 seconds
+
+
+Running <inputset/map2.txt, 1000000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 67.230123, totalExpandedNodes=10000
+Expansion per second = 69.969033, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=0, time=343.993, StraightExpansions=0.0445255, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.669154, NonSpeculativeActiveThreadsPerExpansion=0.669154, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=15780, __TotalActiveNonSpecThreads=15780, __TotalActiveSpecThreads=0
+Sat Dec 19 10:24:44 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 4, 0, /dev/null, /dev/null> | Exec Time: 345 seconds
+
+
+Running <inputset/map2.txt, 1000000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 189.489016, totalExpandedNodes=10000
+Expansion per second = 223.293322, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=1, time=111.617, StraightExpansions=0.0445255, SpeculativeUsefull=0.974327, AverageSpecLoopIterations=2.41824, ActiveThreadsPerExpansion=0.698668, NonSpeculativeActiveThreadsPerExpansion=0.252693, SpeculativeActiveThreadsPerExpansion=0.445976
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=10247, __SpeculativeThreads=10517, __TotalSpecLoopIterations=9760, __TotalSpecAttempts=4036, __TotalActiveThreads=16476, __TotalActiveNonSpecThreads=5959, __TotalActiveSpecThreads=10517
+Sat Dec 19 10:26:39 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 4, 1, /dev/null, /dev/null> | Exec Time: 112 seconds
+
+
+Running <inputset/map2.txt, 1000000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 69.885246, totalExpandedNodes=10000
+Expansion per second = 72.135915, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=0, time=329.261, StraightExpansions=0.0445255, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.70257, NonSpeculativeActiveThreadsPerExpansion=0.70257, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16568, __TotalActiveNonSpecThreads=16568, __TotalActiveSpecThreads=0
+Sat Dec 19 10:32:12 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 8, 0, /dev/null, /dev/null> | Exec Time: 330 seconds
+
+
+Running <inputset/map2.txt, 1000000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 278.591275, totalExpandedNodes=10000
+Expansion per second = 314.990337, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=1, time=76.4969, StraightExpansions=0.0445255, SpeculativeUsefull=0.957948, AverageSpecLoopIterations=3.48836, ActiveThreadsPerExpansion=0.726105, NonSpeculativeActiveThreadsPerExpansion=0.166441, SpeculativeActiveThreadsPerExpansion=0.559664
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=12643, __SpeculativeThreads=13198, __TotalSpecLoopIterations=10636, __TotalSpecAttempts=3049, __TotalActiveThreads=17123, __TotalActiveNonSpecThreads=3925, __TotalActiveSpecThreads=13198
+Sat Dec 19 10:33:33 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 8, 1, /dev/null, /dev/null> | Exec Time: 78 seconds
+
+
+Running <inputset/map2.txt, 1000000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 68.486287, totalExpandedNodes=10000
+Expansion per second = 70.722111, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=0, time=334.957, StraightExpansions=0.0445255, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.70257, NonSpeculativeActiveThreadsPerExpansion=0.70257, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16568, __TotalActiveNonSpecThreads=16568, __TotalActiveSpecThreads=0
+Sat Dec 19 10:39:11 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 16, 0, /dev/null, /dev/null> | Exec Time: 335 seconds
+
+
+Running <inputset/map2.txt, 1000000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 313.546312, totalExpandedNodes=10000
+Expansion per second = 345.936814, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=1, time=68.8874, StraightExpansions=0.0445255, SpeculativeUsefull=0.929591, AverageSpecLoopIterations=3.94843, ActiveThreadsPerExpansion=0.745229, NonSpeculativeActiveThreadsPerExpansion=0.139344, SpeculativeActiveThreadsPerExpansion=0.605886
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=13282, __SpeculativeThreads=14288, __TotalSpecLoopIterations=10566, __TotalSpecAttempts=2676, __TotalActiveThreads=17574, __TotalActiveNonSpecThreads=3286, __TotalActiveSpecThreads=14288
+Sat Dec 19 10:40:24 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 16, 1, /dev/null, /dev/null> | Exec Time: 70 seconds
+
+
+Running <inputset/map2.txt, 1000000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 69.098006, totalExpandedNodes=10000
+Expansion per second = 71.590270, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=0, time=331.2, StraightExpansions=0.0445255, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.70257, NonSpeculativeActiveThreadsPerExpansion=0.70257, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=16568, __TotalActiveNonSpecThreads=16568, __TotalActiveSpecThreads=0
+Sat Dec 19 10:45:59 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 32, 0, /dev/null, /dev/null> | Exec Time: 332 seconds
+
+
+Running <inputset/map2.txt, 1000000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=1825, Y=2332, Robot: X=231, Y=1369, Target: X=338, Y=341, Collision Threshold: 6500
+Expansion per second = 316.964831, totalExpandedNodes=10000
+Expansion per second = 349.107244, totalExpandedNodes=20000
+Results: map_file=inputset/map2.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=1, time=67.5684, StraightExpansions=0.0445255, SpeculativeUsefull=0.918119, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=0.752778, NonSpeculativeActiveThreadsPerExpansion=0.139598, SpeculativeActiveThreadsPerExpansion=0.61318
+DetailedResults: __StraightExpansions=1050, __TotalExpansions=23582, __SpeculativeUsefull=13276, __SpeculativeThreads=14460, __TotalSpecLoopIterations=10516, __TotalSpecAttempts=2629, __TotalActiveThreads=17752, __TotalActiveNonSpecThreads=3292, __TotalActiveSpecThreads=14460
+Sat Dec 19 10:47:11 EST 2020 | Experiment: <inputset/map2.txt, 1000000, 32, 1, /dev/null, /dev/null> | Exec Time: 69 seconds
+
+
+Running <inputset/map3.txt, 1, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=1, DO_SPECULATION=0, time=158.907, StraightExpansions=0.0446167, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.999828, NonSpeculativeActiveThreadsPerExpansion=0.999828, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=5804, __TotalActiveNonSpecThreads=5804, __TotalActiveSpecThreads=0
+Sat Dec 19 10:49:53 EST 2020 | Experiment: <inputset/map3.txt, 1, 1, 0, /dev/null, /dev/null> | Exec Time: 159 seconds
+
+
+Skipped t1-s1
+Running <inputset/map3.txt, 1, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=0, time=154.286, StraightExpansions=0.0446167, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.05375, NonSpeculativeActiveThreadsPerExpansion=1.05375, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=6117, __TotalActiveNonSpecThreads=6117, __TotalActiveSpecThreads=0
+Sat Dec 19 10:52:30 EST 2020 | Experiment: <inputset/map3.txt, 1, 2, 0, /dev/null, /dev/null> | Exec Time: 154 seconds
+
+
+Running <inputset/map3.txt, 1, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=1, time=93.0257, StraightExpansions=0.0446167, SpeculativeUsefull=0.969903, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=1.06942, NonSpeculativeActiveThreadsPerExpansion=0.58863, SpeculativeActiveThreadsPerExpansion=0.480792
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=2707, __SpeculativeThreads=2791, __TotalSpecLoopIterations=2791, __TotalSpecAttempts=2791, __TotalActiveThreads=6208, __TotalActiveNonSpecThreads=3417, __TotalActiveSpecThreads=2791
+Sat Dec 19 10:54:06 EST 2020 | Experiment: <inputset/map3.txt, 1, 2, 1, /dev/null, /dev/null> | Exec Time: 93 seconds
+
+
+Running <inputset/map3.txt, 1, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=0, time=148.709, StraightExpansions=0.0446167, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.10784, NonSpeculativeActiveThreadsPerExpansion=1.10784, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=6431, __TotalActiveNonSpecThreads=6431, __TotalActiveSpecThreads=0
+Sat Dec 19 10:56:38 EST 2020 | Experiment: <inputset/map3.txt, 1, 4, 0, /dev/null, /dev/null> | Exec Time: 149 seconds
+
+
+Running <inputset/map3.txt, 1, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=1, time=45.0461, StraightExpansions=0.0446167, SpeculativeUsefull=0.947153, AverageSpecLoopIterations=1.18165, ActiveThreadsPerExpansion=1.17416, NonSpeculativeActiveThreadsPerExpansion=0.375538, SpeculativeActiveThreadsPerExpansion=0.798622
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=4391, __SpeculativeThreads=4636, __TotalSpecLoopIterations=1932, __TotalSpecAttempts=1635, __TotalActiveThreads=6816, __TotalActiveNonSpecThreads=2180, __TotalActiveSpecThreads=4636
+Sat Dec 19 10:57:26 EST 2020 | Experiment: <inputset/map3.txt, 1, 4, 1, /dev/null, /dev/null> | Exec Time: 45 seconds
+
+
+Running <inputset/map3.txt, 1, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=0, time=146.404, StraightExpansions=0.0446167, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.15573, NonSpeculativeActiveThreadsPerExpansion=1.15573, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=6709, __TotalActiveNonSpecThreads=6709, __TotalActiveSpecThreads=0
+Sat Dec 19 10:59:55 EST 2020 | Experiment: <inputset/map3.txt, 1, 8, 0, /dev/null, /dev/null> | Exec Time: 146 seconds
+
+
+Running <inputset/map3.txt, 1, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=1, time=22.9134, StraightExpansions=0.0446167, SpeculativeUsefull=0.917039, AverageSpecLoopIterations=2.41405, ActiveThreadsPerExpansion=1.24203, NonSpeculativeActiveThreadsPerExpansion=0.201723, SpeculativeActiveThreadsPerExpansion=1.04031
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=5538, __SpeculativeThreads=6039, __TotalSpecLoopIterations=2233, __TotalSpecAttempts=925, __TotalActiveThreads=7210, __TotalActiveNonSpecThreads=1171, __TotalActiveSpecThreads=6039
+Sat Dec 19 11:00:22 EST 2020 | Experiment: <inputset/map3.txt, 1, 8, 1, /dev/null, /dev/null> | Exec Time: 24 seconds
+
+
+Running <inputset/map3.txt, 1, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=0, time=145.196, StraightExpansions=0.0446167, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.15573, NonSpeculativeActiveThreadsPerExpansion=1.15573, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=6709, __TotalActiveNonSpecThreads=6709, __TotalActiveSpecThreads=0
+Sat Dec 19 11:02:50 EST 2020 | Experiment: <inputset/map3.txt, 1, 16, 0, /dev/null, /dev/null> | Exec Time: 145 seconds
+
+
+Running <inputset/map3.txt, 1, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=1, time=15.2028, StraightExpansions=0.0446167, SpeculativeUsefull=0.889135, AverageSpecLoopIterations=3.91993, ActiveThreadsPerExpansion=1.28493, NonSpeculativeActiveThreadsPerExpansion=0.119552, SpeculativeActiveThreadsPerExpansion=1.16537
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=6015, __SpeculativeThreads=6765, __TotalSpecLoopIterations=2105, __TotalSpecAttempts=537, __TotalActiveThreads=7459, __TotalActiveNonSpecThreads=694, __TotalActiveSpecThreads=6765
+Sat Dec 19 11:03:08 EST 2020 | Experiment: <inputset/map3.txt, 1, 16, 1, /dev/null, /dev/null> | Exec Time: 15 seconds
+
+
+Running <inputset/map3.txt, 1, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=0, time=150.492, StraightExpansions=0.0446167, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.15573, NonSpeculativeActiveThreadsPerExpansion=1.15573, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=6709, __TotalActiveNonSpecThreads=6709, __TotalActiveSpecThreads=0
+Sat Dec 19 11:05:42 EST 2020 | Experiment: <inputset/map3.txt, 1, 32, 0, /dev/null, /dev/null> | Exec Time: 151 seconds
+
+
+Running <inputset/map3.txt, 1, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=1, time=14.2878, StraightExpansions=0.0446167, SpeculativeUsefull=0.895691, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=1.27666, NonSpeculativeActiveThreadsPerExpansion=0.117313, SpeculativeActiveThreadsPerExpansion=1.15935
+DetailedResults: __StraightExpansions=259, __TotalExpansions=5805, __SpeculativeUsefull=6028, __SpeculativeThreads=6730, __TotalSpecLoopIterations=2064, __TotalSpecAttempts=516, __TotalActiveThreads=7411, __TotalActiveNonSpecThreads=681, __TotalActiveSpecThreads=6730
+Sat Dec 19 11:05:59 EST 2020 | Experiment: <inputset/map3.txt, 1, 32, 1, /dev/null, /dev/null> | Exec Time: 14 seconds
+
+
+Running <inputset/map3.txt, 1000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=1, DO_SPECULATION=0, time=24.2042, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.996564, NonSpeculativeActiveThreadsPerExpansion=0.996564, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=290, __TotalActiveNonSpecThreads=290, __TotalActiveSpecThreads=0
+Sat Dec 19 11:06:26 EST 2020 | Experiment: <inputset/map3.txt, 1000, 1, 0, /dev/null, /dev/null> | Exec Time: 24 seconds
+
+
+Skipped t1-s1
+Running <inputset/map3.txt, 1000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=0, time=15.6931, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99313, NonSpeculativeActiveThreadsPerExpansion=1.99313, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=580, __TotalActiveNonSpecThreads=580, __TotalActiveSpecThreads=0
+Sat Dec 19 11:06:45 EST 2020 | Experiment: <inputset/map3.txt, 1000, 2, 0, /dev/null, /dev/null> | Exec Time: 16 seconds
+
+
+Running <inputset/map3.txt, 1000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=1, time=16.0096, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99313, NonSpeculativeActiveThreadsPerExpansion=1.99313, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=580, __TotalActiveNonSpecThreads=580, __TotalActiveSpecThreads=0
+Sat Dec 19 11:07:04 EST 2020 | Experiment: <inputset/map3.txt, 1000, 2, 1, /dev/null, /dev/null> | Exec Time: 16 seconds
+
+
+Running <inputset/map3.txt, 1000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=0, time=10.639, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=2.99313, NonSpeculativeActiveThreadsPerExpansion=2.99313, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=871, __TotalActiveNonSpecThreads=871, __TotalActiveSpecThreads=0
+Sat Dec 19 11:07:18 EST 2020 | Experiment: <inputset/map3.txt, 1000, 4, 0, /dev/null, /dev/null> | Exec Time: 11 seconds
+
+
+Running <inputset/map3.txt, 1000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=1, time=8.27372, StraightExpansions=0.910653, SpeculativeUsefull=0.953901, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=3.56014, NonSpeculativeActiveThreadsPerExpansion=2.59107, SpeculativeActiveThreadsPerExpansion=0.969072
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=269, __SpeculativeThreads=282, __TotalSpecLoopIterations=184, __TotalSpecAttempts=184, __TotalActiveThreads=1036, __TotalActiveNonSpecThreads=754, __TotalActiveSpecThreads=282
+Sat Dec 19 11:07:29 EST 2020 | Experiment: <inputset/map3.txt, 1000, 4, 1, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map3.txt, 1000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=0, time=7.36998, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.02405, NonSpeculativeActiveThreadsPerExpansion=4.02405, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1171, __TotalActiveNonSpecThreads=1171, __TotalActiveSpecThreads=0
+Sat Dec 19 11:07:40 EST 2020 | Experiment: <inputset/map3.txt, 1000, 8, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map3.txt, 1000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=1, time=3.7115, StraightExpansions=0.910653, SpeculativeUsefull=0.944853, AverageSpecLoopIterations=1.78146, ActiveThreadsPerExpansion=4.17869, NonSpeculativeActiveThreadsPerExpansion=1.37457, SpeculativeActiveThreadsPerExpansion=2.80412
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=771, __SpeculativeThreads=816, __TotalSpecLoopIterations=269, __TotalSpecAttempts=151, __TotalActiveThreads=1216, __TotalActiveNonSpecThreads=400, __TotalActiveSpecThreads=816
+Sat Dec 19 11:07:46 EST 2020 | Experiment: <inputset/map3.txt, 1000, 8, 1, /dev/null, /dev/null> | Exec Time: 3 seconds
+
+
+Running <inputset/map3.txt, 1000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=0, time=7.32285, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.02405, NonSpeculativeActiveThreadsPerExpansion=4.02405, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1171, __TotalActiveNonSpecThreads=1171, __TotalActiveSpecThreads=0
+Sat Dec 19 11:07:57 EST 2020 | Experiment: <inputset/map3.txt, 1000, 16, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map3.txt, 1000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=1, time=2.4613, StraightExpansions=0.910653, SpeculativeUsefull=0.904624, AverageSpecLoopIterations=3.45122, ActiveThreadsPerExpansion=4.36426, NonSpeculativeActiveThreadsPerExpansion=0.797251, SpeculativeActiveThreadsPerExpansion=3.56701
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=939, __SpeculativeThreads=1038, __TotalSpecLoopIterations=283, __TotalSpecAttempts=82, __TotalActiveThreads=1270, __TotalActiveNonSpecThreads=232, __TotalActiveSpecThreads=1038
+Sat Dec 19 11:08:02 EST 2020 | Experiment: <inputset/map3.txt, 1000, 16, 1, /dev/null, /dev/null> | Exec Time: 2 seconds
+
+
+Running <inputset/map3.txt, 1000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=0, time=7.3574, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.02405, NonSpeculativeActiveThreadsPerExpansion=4.02405, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1171, __TotalActiveNonSpecThreads=1171, __TotalActiveSpecThreads=0
+Sat Dec 19 11:08:13 EST 2020 | Experiment: <inputset/map3.txt, 1000, 32, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map3.txt, 1000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=1, time=2.00383, StraightExpansions=0.910653, SpeculativeUsefull=0.90619, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=4.35739, NonSpeculativeActiveThreadsPerExpansion=0.804124, SpeculativeActiveThreadsPerExpansion=3.55326
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=937, __SpeculativeThreads=1034, __TotalSpecLoopIterations=264, __TotalSpecAttempts=66, __TotalActiveThreads=1268, __TotalActiveNonSpecThreads=234, __TotalActiveSpecThreads=1034
+Sat Dec 19 11:08:18 EST 2020 | Experiment: <inputset/map3.txt, 1000, 32, 1, /dev/null, /dev/null> | Exec Time: 2 seconds
+
+
+Running <inputset/map3.txt, 1000000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=1, DO_SPECULATION=0, time=24.1962, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.996564, NonSpeculativeActiveThreadsPerExpansion=0.996564, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=290, __TotalActiveNonSpecThreads=290, __TotalActiveSpecThreads=0
+Sat Dec 19 11:08:45 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 1, 0, /dev/null, /dev/null> | Exec Time: 24 seconds
+
+
+Skipped t1-s1
+Running <inputset/map3.txt, 1000000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=0, time=15.6399, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99313, NonSpeculativeActiveThreadsPerExpansion=1.99313, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=580, __TotalActiveNonSpecThreads=580, __TotalActiveSpecThreads=0
+Sat Dec 19 11:09:04 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 2, 0, /dev/null, /dev/null> | Exec Time: 16 seconds
+
+
+Running <inputset/map3.txt, 1000000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=1, time=15.6365, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99313, NonSpeculativeActiveThreadsPerExpansion=1.99313, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=580, __TotalActiveNonSpecThreads=580, __TotalActiveSpecThreads=0
+Sat Dec 19 11:09:22 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 2, 1, /dev/null, /dev/null> | Exec Time: 15 seconds
+
+
+Running <inputset/map3.txt, 1000000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=0, time=10.6038, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=2.99313, NonSpeculativeActiveThreadsPerExpansion=2.99313, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=871, __TotalActiveNonSpecThreads=871, __TotalActiveSpecThreads=0
+Sat Dec 19 11:09:36 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 4, 0, /dev/null, /dev/null> | Exec Time: 11 seconds
+
+
+Running <inputset/map3.txt, 1000000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=1, time=8.20971, StraightExpansions=0.910653, SpeculativeUsefull=0.953901, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=3.56014, NonSpeculativeActiveThreadsPerExpansion=2.59107, SpeculativeActiveThreadsPerExpansion=0.969072
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=269, __SpeculativeThreads=282, __TotalSpecLoopIterations=184, __TotalSpecAttempts=184, __TotalActiveThreads=1036, __TotalActiveNonSpecThreads=754, __TotalActiveSpecThreads=282
+Sat Dec 19 11:09:47 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 4, 1, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map3.txt, 1000000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=0, time=7.2934, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.02405, NonSpeculativeActiveThreadsPerExpansion=4.02405, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1171, __TotalActiveNonSpecThreads=1171, __TotalActiveSpecThreads=0
+Sat Dec 19 11:09:58 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 8, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map3.txt, 1000000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=1, time=3.72303, StraightExpansions=0.910653, SpeculativeUsefull=0.944853, AverageSpecLoopIterations=1.78146, ActiveThreadsPerExpansion=4.17869, NonSpeculativeActiveThreadsPerExpansion=1.37457, SpeculativeActiveThreadsPerExpansion=2.80412
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=771, __SpeculativeThreads=816, __TotalSpecLoopIterations=269, __TotalSpecAttempts=151, __TotalActiveThreads=1216, __TotalActiveNonSpecThreads=400, __TotalActiveSpecThreads=816
+Sat Dec 19 11:10:04 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 8, 1, /dev/null, /dev/null> | Exec Time: 3 seconds
+
+
+Running <inputset/map3.txt, 1000000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=0, time=7.34468, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.02405, NonSpeculativeActiveThreadsPerExpansion=4.02405, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1171, __TotalActiveNonSpecThreads=1171, __TotalActiveSpecThreads=0
+Sat Dec 19 11:10:15 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 16, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map3.txt, 1000000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=1, time=2.36467, StraightExpansions=0.910653, SpeculativeUsefull=0.904624, AverageSpecLoopIterations=3.45122, ActiveThreadsPerExpansion=4.36426, NonSpeculativeActiveThreadsPerExpansion=0.797251, SpeculativeActiveThreadsPerExpansion=3.56701
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=939, __SpeculativeThreads=1038, __TotalSpecLoopIterations=283, __TotalSpecAttempts=82, __TotalActiveThreads=1270, __TotalActiveNonSpecThreads=232, __TotalActiveSpecThreads=1038
+Sat Dec 19 11:10:20 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 16, 1, /dev/null, /dev/null> | Exec Time: 2 seconds
+
+
+Running <inputset/map3.txt, 1000000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=0, time=7.20699, StraightExpansions=0.910653, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.02405, NonSpeculativeActiveThreadsPerExpansion=4.02405, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1171, __TotalActiveNonSpecThreads=1171, __TotalActiveSpecThreads=0
+Sat Dec 19 11:10:30 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 32, 0, /dev/null, /dev/null> | Exec Time: 7 seconds
+
+
+Running <inputset/map3.txt, 1000000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=119, Y=45, Target: X=238, Y=328, Collision Threshold: 100
+Results: map_file=inputset/map3.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=1, time=1.86617, StraightExpansions=0.910653, SpeculativeUsefull=0.90619, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=4.35739, NonSpeculativeActiveThreadsPerExpansion=0.804124, SpeculativeActiveThreadsPerExpansion=3.55326
+DetailedResults: __StraightExpansions=265, __TotalExpansions=291, __SpeculativeUsefull=937, __SpeculativeThreads=1034, __TotalSpecLoopIterations=264, __TotalSpecAttempts=66, __TotalActiveThreads=1268, __TotalActiveNonSpecThreads=234, __TotalActiveSpecThreads=1034
+Sat Dec 19 11:10:35 EST 2020 | Experiment: <inputset/map3.txt, 1000000, 32, 1, /dev/null, /dev/null> | Exec Time: 2 seconds
+
+
+Running <inputset/map4.txt, 1, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=1, DO_SPECULATION=0, time=94.6655, StraightExpansions=0.126771, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.999637, NonSpeculativeActiveThreadsPerExpansion=0.999637, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=2752, __TotalActiveNonSpecThreads=2752, __TotalActiveSpecThreads=0
+Sat Dec 19 11:12:13 EST 2020 | Experiment: <inputset/map4.txt, 1, 1, 0, /dev/null, /dev/null> | Exec Time: 95 seconds
+
+
+Skipped t1-s1
+Running <inputset/map4.txt, 1, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=0, time=83.6264, StraightExpansions=0.126771, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.12604, NonSpeculativeActiveThreadsPerExpansion=1.12604, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=3100, __TotalActiveNonSpecThreads=3100, __TotalActiveSpecThreads=0
+Sat Dec 19 11:13:40 EST 2020 | Experiment: <inputset/map4.txt, 1, 2, 0, /dev/null, /dev/null> | Exec Time: 84 seconds
+
+
+Running <inputset/map4.txt, 1, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=1, time=53.4473, StraightExpansions=0.126771, SpeculativeUsefull=0.934137, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=1.15656, NonSpeculativeActiveThreadsPerExpansion=0.704323, SpeculativeActiveThreadsPerExpansion=0.452234
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=1163, __SpeculativeThreads=1245, __TotalSpecLoopIterations=1245, __TotalSpecAttempts=1245, __TotalActiveThreads=3184, __TotalActiveNonSpecThreads=1939, __TotalActiveSpecThreads=1245
+Sat Dec 19 11:14:36 EST 2020 | Experiment: <inputset/map4.txt, 1, 2, 1, /dev/null, /dev/null> | Exec Time: 53 seconds
+
+
+Running <inputset/map4.txt, 1, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=0, time=76.5238, StraightExpansions=0.126771, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.25282, NonSpeculativeActiveThreadsPerExpansion=1.25282, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=3449, __TotalActiveNonSpecThreads=3449, __TotalActiveSpecThreads=0
+Sat Dec 19 11:15:56 EST 2020 | Experiment: <inputset/map4.txt, 1, 4, 0, /dev/null, /dev/null> | Exec Time: 77 seconds
+
+
+Running <inputset/map4.txt, 1, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=1, time=27.0325, StraightExpansions=0.126771, SpeculativeUsefull=0.94069, AverageSpecLoopIterations=1.30036, ActiveThreadsPerExpansion=1.39339, NonSpeculativeActiveThreadsPerExpansion=0.603342, SpeculativeActiveThreadsPerExpansion=0.790047
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=2046, __SpeculativeThreads=2175, __TotalSpecLoopIterations=1078, __TotalSpecAttempts=829, __TotalActiveThreads=3836, __TotalActiveNonSpecThreads=1661, __TotalActiveSpecThreads=2175
+Sat Dec 19 11:16:26 EST 2020 | Experiment: <inputset/map4.txt, 1, 4, 1, /dev/null, /dev/null> | Exec Time: 27 seconds
+
+
+Running <inputset/map4.txt, 1, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=0, time=72.5295, StraightExpansions=0.126771, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.44243, NonSpeculativeActiveThreadsPerExpansion=1.44243, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=3971, __TotalActiveNonSpecThreads=3971, __TotalActiveSpecThreads=0
+Sat Dec 19 11:17:42 EST 2020 | Experiment: <inputset/map4.txt, 1, 8, 0, /dev/null, /dev/null> | Exec Time: 73 seconds
+
+
+Running <inputset/map4.txt, 1, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=1, time=13.8954, StraightExpansions=0.126771, SpeculativeUsefull=0.90749, AverageSpecLoopIterations=2.45213, ActiveThreadsPerExpansion=1.55503, NonSpeculativeActiveThreadsPerExpansion=0.337813, SpeculativeActiveThreadsPerExpansion=1.21722
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=3041, __SpeculativeThreads=3351, __TotalSpecLoopIterations=1383, __TotalSpecAttempts=564, __TotalActiveThreads=4281, __TotalActiveNonSpecThreads=930, __TotalActiveSpecThreads=3351
+Sat Dec 19 11:17:59 EST 2020 | Experiment: <inputset/map4.txt, 1, 8, 1, /dev/null, /dev/null> | Exec Time: 14 seconds
+
+
+Running <inputset/map4.txt, 1, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=0, time=71.5758, StraightExpansions=0.126771, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.44243, NonSpeculativeActiveThreadsPerExpansion=1.44243, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=3971, __TotalActiveNonSpecThreads=3971, __TotalActiveSpecThreads=0
+Sat Dec 19 11:19:13 EST 2020 | Experiment: <inputset/map4.txt, 1, 16, 0, /dev/null, /dev/null> | Exec Time: 71 seconds
+
+
+Running <inputset/map4.txt, 1, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=1, time=9.80678, StraightExpansions=0.126771, SpeculativeUsefull=0.877363, AverageSpecLoopIterations=3.75953, ActiveThreadsPerExpansion=1.61678, NonSpeculativeActiveThreadsPerExpansion=0.19506, SpeculativeActiveThreadsPerExpansion=1.42172
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=3434, __SpeculativeThreads=3914, __TotalSpecLoopIterations=1282, __TotalSpecAttempts=341, __TotalActiveThreads=4451, __TotalActiveNonSpecThreads=537, __TotalActiveSpecThreads=3914
+Sat Dec 19 11:19:26 EST 2020 | Experiment: <inputset/map4.txt, 1, 16, 1, /dev/null, /dev/null> | Exec Time: 10 seconds
+
+
+Running <inputset/map4.txt, 1, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=0, time=72.0826, StraightExpansions=0.126771, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.44243, NonSpeculativeActiveThreadsPerExpansion=1.44243, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=3971, __TotalActiveNonSpecThreads=3971, __TotalActiveSpecThreads=0
+Sat Dec 19 11:20:41 EST 2020 | Experiment: <inputset/map4.txt, 1, 32, 0, /dev/null, /dev/null> | Exec Time: 72 seconds
+
+
+Running <inputset/map4.txt, 1, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=1, time=8.98534, StraightExpansions=0.126771, SpeculativeUsefull=0.869731, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=1.62877, NonSpeculativeActiveThreadsPerExpansion=0.198329, SpeculativeActiveThreadsPerExpansion=1.43044
+DetailedResults: __StraightExpansions=349, __TotalExpansions=2753, __SpeculativeUsefull=3425, __SpeculativeThreads=3938, __TotalSpecLoopIterations=1232, __TotalSpecAttempts=308, __TotalActiveThreads=4484, __TotalActiveNonSpecThreads=546, __TotalActiveSpecThreads=3938
+Sat Dec 19 11:20:53 EST 2020 | Experiment: <inputset/map4.txt, 1, 32, 1, /dev/null, /dev/null> | Exec Time: 9 seconds
+
+
+Running <inputset/map4.txt, 1000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=1, DO_SPECULATION=0, time=32.2235, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.997033, NonSpeculativeActiveThreadsPerExpansion=0.997033, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=336, __TotalActiveNonSpecThreads=336, __TotalActiveSpecThreads=0
+Sat Dec 19 11:21:29 EST 2020 | Experiment: <inputset/map4.txt, 1000, 1, 0, /dev/null, /dev/null> | Exec Time: 33 seconds
+
+
+Skipped t1-s1
+Running <inputset/map4.txt, 1000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=0, time=20.345, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99407, NonSpeculativeActiveThreadsPerExpansion=1.99407, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=672, __TotalActiveNonSpecThreads=672, __TotalActiveSpecThreads=0
+Sat Dec 19 11:21:52 EST 2020 | Experiment: <inputset/map4.txt, 1000, 2, 0, /dev/null, /dev/null> | Exec Time: 20 seconds
+
+
+Running <inputset/map4.txt, 1000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=1, time=20.2613, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99407, NonSpeculativeActiveThreadsPerExpansion=1.99407, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=672, __TotalActiveNonSpecThreads=672, __TotalActiveSpecThreads=0
+Sat Dec 19 11:22:15 EST 2020 | Experiment: <inputset/map4.txt, 1000, 2, 1, /dev/null, /dev/null> | Exec Time: 20 seconds
+
+
+Running <inputset/map4.txt, 1000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=0, time=14.5362, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=2.99407, NonSpeculativeActiveThreadsPerExpansion=2.99407, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1009, __TotalActiveNonSpecThreads=1009, __TotalActiveSpecThreads=0
+Sat Dec 19 11:22:33 EST 2020 | Experiment: <inputset/map4.txt, 1000, 4, 0, /dev/null, /dev/null> | Exec Time: 15 seconds
+
+
+Running <inputset/map4.txt, 1000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=1, time=11.4858, StraightExpansions=0.961424, SpeculativeUsefull=0.977974, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=3.85757, NonSpeculativeActiveThreadsPerExpansion=3.18398, SpeculativeActiveThreadsPerExpansion=0.673591
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=222, __SpeculativeThreads=227, __TotalSpecLoopIterations=184, __TotalSpecAttempts=184, __TotalActiveThreads=1300, __TotalActiveNonSpecThreads=1073, __TotalActiveSpecThreads=227
+Sat Dec 19 11:22:48 EST 2020 | Experiment: <inputset/map4.txt, 1000, 4, 1, /dev/null, /dev/null> | Exec Time: 12 seconds
+
+
+Running <inputset/map4.txt, 1000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=0, time=8.36561, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.68546, NonSpeculativeActiveThreadsPerExpansion=4.68546, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1579, __TotalActiveNonSpecThreads=1579, __TotalActiveSpecThreads=0
+Sat Dec 19 11:22:59 EST 2020 | Experiment: <inputset/map4.txt, 1000, 8, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map4.txt, 1000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=1, time=4.90833, StraightExpansions=0.961424, SpeculativeUsefull=0.979351, AverageSpecLoopIterations=1.50754, ActiveThreadsPerExpansion=4.74777, NonSpeculativeActiveThreadsPerExpansion=1.72997, SpeculativeActiveThreadsPerExpansion=3.0178
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=996, __SpeculativeThreads=1017, __TotalSpecLoopIterations=300, __TotalSpecAttempts=199, __TotalActiveThreads=1600, __TotalActiveNonSpecThreads=583, __TotalActiveSpecThreads=1017
+Sat Dec 19 11:23:07 EST 2020 | Experiment: <inputset/map4.txt, 1000, 8, 1, /dev/null, /dev/null> | Exec Time: 5 seconds
+
+
+Running <inputset/map4.txt, 1000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=0, time=8.41992, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.68546, NonSpeculativeActiveThreadsPerExpansion=4.68546, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1579, __TotalActiveNonSpecThreads=1579, __TotalActiveSpecThreads=0
+Sat Dec 19 11:23:18 EST 2020 | Experiment: <inputset/map4.txt, 1000, 16, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map4.txt, 1000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=1, time=3.165, StraightExpansions=0.961424, SpeculativeUsefull=0.950562, AverageSpecLoopIterations=3.13462, ActiveThreadsPerExpansion=4.88131, NonSpeculativeActiveThreadsPerExpansion=0.919881, SpeculativeActiveThreadsPerExpansion=3.96142
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=1269, __SpeculativeThreads=1335, __TotalSpecLoopIterations=326, __TotalSpecAttempts=104, __TotalActiveThreads=1645, __TotalActiveNonSpecThreads=310, __TotalActiveSpecThreads=1335
+Sat Dec 19 11:23:25 EST 2020 | Experiment: <inputset/map4.txt, 1000, 16, 1, /dev/null, /dev/null> | Exec Time: 4 seconds
+
+
+Running <inputset/map4.txt, 1000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=0, time=8.4627, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.68546, NonSpeculativeActiveThreadsPerExpansion=4.68546, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1579, __TotalActiveNonSpecThreads=1579, __TotalActiveSpecThreads=0
+Sat Dec 19 11:23:36 EST 2020 | Experiment: <inputset/map4.txt, 1000, 32, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map4.txt, 1000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=1, time=2.36959, StraightExpansions=0.961424, SpeculativeUsefull=0.959511, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=4.84273, NonSpeculativeActiveThreadsPerExpansion=0.958457, SpeculativeActiveThreadsPerExpansion=3.88427
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=1256, __SpeculativeThreads=1309, __TotalSpecLoopIterations=284, __TotalSpecAttempts=71, __TotalActiveThreads=1632, __TotalActiveNonSpecThreads=323, __TotalActiveSpecThreads=1309
+Sat Dec 19 11:23:42 EST 2020 | Experiment: <inputset/map4.txt, 1000, 32, 1, /dev/null, /dev/null> | Exec Time: 3 seconds
+
+
+Running <inputset/map4.txt, 1000000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=1, DO_SPECULATION=0, time=32.2134, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.997033, NonSpeculativeActiveThreadsPerExpansion=0.997033, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=336, __TotalActiveNonSpecThreads=336, __TotalActiveSpecThreads=0
+Sat Dec 19 11:24:17 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 1, 0, /dev/null, /dev/null> | Exec Time: 32 seconds
+
+
+Skipped t1-s1
+Running <inputset/map4.txt, 1000000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=0, time=20.3074, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99407, NonSpeculativeActiveThreadsPerExpansion=1.99407, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=672, __TotalActiveNonSpecThreads=672, __TotalActiveSpecThreads=0
+Sat Dec 19 11:24:40 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 2, 0, /dev/null, /dev/null> | Exec Time: 20 seconds
+
+
+Running <inputset/map4.txt, 1000000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=1, time=20.2701, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.99407, NonSpeculativeActiveThreadsPerExpansion=1.99407, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=672, __TotalActiveNonSpecThreads=672, __TotalActiveSpecThreads=0
+Sat Dec 19 11:25:04 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 2, 1, /dev/null, /dev/null> | Exec Time: 21 seconds
+
+
+Running <inputset/map4.txt, 1000000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=0, time=13.8882, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=2.99407, NonSpeculativeActiveThreadsPerExpansion=2.99407, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1009, __TotalActiveNonSpecThreads=1009, __TotalActiveSpecThreads=0
+Sat Dec 19 11:25:20 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 4, 0, /dev/null, /dev/null> | Exec Time: 13 seconds
+
+
+Running <inputset/map4.txt, 1000000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=1, time=10.8981, StraightExpansions=0.961424, SpeculativeUsefull=0.977974, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=3.85757, NonSpeculativeActiveThreadsPerExpansion=3.18398, SpeculativeActiveThreadsPerExpansion=0.673591
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=222, __SpeculativeThreads=227, __TotalSpecLoopIterations=184, __TotalSpecAttempts=184, __TotalActiveThreads=1300, __TotalActiveNonSpecThreads=1073, __TotalActiveSpecThreads=227
+Sat Dec 19 11:25:34 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 4, 1, /dev/null, /dev/null> | Exec Time: 11 seconds
+
+
+Running <inputset/map4.txt, 1000000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=0, time=8.33507, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.68546, NonSpeculativeActiveThreadsPerExpansion=4.68546, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1579, __TotalActiveNonSpecThreads=1579, __TotalActiveSpecThreads=0
+Sat Dec 19 11:25:46 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 8, 0, /dev/null, /dev/null> | Exec Time: 9 seconds
+
+
+Running <inputset/map4.txt, 1000000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=1, time=4.89412, StraightExpansions=0.961424, SpeculativeUsefull=0.979351, AverageSpecLoopIterations=1.50754, ActiveThreadsPerExpansion=4.74777, NonSpeculativeActiveThreadsPerExpansion=1.72997, SpeculativeActiveThreadsPerExpansion=3.0178
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=996, __SpeculativeThreads=1017, __TotalSpecLoopIterations=300, __TotalSpecAttempts=199, __TotalActiveThreads=1600, __TotalActiveNonSpecThreads=583, __TotalActiveSpecThreads=1017
+Sat Dec 19 11:25:54 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 8, 1, /dev/null, /dev/null> | Exec Time: 5 seconds
+
+
+Running <inputset/map4.txt, 1000000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=0, time=8.28814, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.68546, NonSpeculativeActiveThreadsPerExpansion=4.68546, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1579, __TotalActiveNonSpecThreads=1579, __TotalActiveSpecThreads=0
+Sat Dec 19 11:26:05 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 16, 0, /dev/null, /dev/null> | Exec Time: 8 seconds
+
+
+Running <inputset/map4.txt, 1000000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=1, time=3.27416, StraightExpansions=0.961424, SpeculativeUsefull=0.950562, AverageSpecLoopIterations=3.13462, ActiveThreadsPerExpansion=4.88131, NonSpeculativeActiveThreadsPerExpansion=0.919881, SpeculativeActiveThreadsPerExpansion=3.96142
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=1269, __SpeculativeThreads=1335, __TotalSpecLoopIterations=326, __TotalSpecAttempts=104, __TotalActiveThreads=1645, __TotalActiveNonSpecThreads=310, __TotalActiveSpecThreads=1335
+Sat Dec 19 11:26:11 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 16, 1, /dev/null, /dev/null> | Exec Time: 3 seconds
+
+
+Running <inputset/map4.txt, 1000000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=0, time=8.43454, StraightExpansions=0.961424, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=4.68546, NonSpeculativeActiveThreadsPerExpansion=4.68546, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=1579, __TotalActiveNonSpecThreads=1579, __TotalActiveSpecThreads=0
+Sat Dec 19 11:26:23 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 32, 0, /dev/null, /dev/null> | Exec Time: 9 seconds
+
+
+Running <inputset/map4.txt, 1000000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=473, Y=436, Robot: X=459, Y=12, Target: X=123, Y=247, Collision Threshold: 5000
+Results: map_file=inputset/map4.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=1, time=2.33819, StraightExpansions=0.961424, SpeculativeUsefull=0.959511, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=4.84273, NonSpeculativeActiveThreadsPerExpansion=0.958457, SpeculativeActiveThreadsPerExpansion=3.88427
+DetailedResults: __StraightExpansions=324, __TotalExpansions=337, __SpeculativeUsefull=1256, __SpeculativeThreads=1309, __TotalSpecLoopIterations=284, __TotalSpecAttempts=71, __TotalActiveThreads=1632, __TotalActiveNonSpecThreads=323, __TotalActiveSpecThreads=1309
+Sat Dec 19 11:26:28 EST 2020 | Experiment: <inputset/map4.txt, 1000000, 32, 1, /dev/null, /dev/null> | Exec Time: 2 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 15.626985, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=1, DO_SPECULATION=0, time=639.921, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.9999, NonSpeculativeActiveThreadsPerExpansion=0.9999, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=9999, __TotalActiveNonSpecThreads=9999, __TotalActiveSpecThreads=0
+Sat Dec 19 11:37:11 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 1, 0, /dev/null, /dev/null> | Exec Time: 640 seconds
+
+
+Skipped t1-s1
+Running <inputset/synthetic_straight.txt, 1, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 21.805904, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=0, time=458.593, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.9998, NonSpeculativeActiveThreadsPerExpansion=1.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=19998, __TotalActiveNonSpecThreads=19998, __TotalActiveSpecThreads=0
+Sat Dec 19 11:44:53 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 2, 0, /dev/null, /dev/null> | Exec Time: 459 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 21.790916, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=2, DO_SPECULATION=1, time=458.908, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.9998, NonSpeculativeActiveThreadsPerExpansion=1.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=19998, __TotalActiveNonSpecThreads=19998, __TotalActiveSpecThreads=0
+Sat Dec 19 11:52:35 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 2, 1, /dev/null, /dev/null> | Exec Time: 459 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 37.166697, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=0, time=269.059, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=2.9998, NonSpeculativeActiveThreadsPerExpansion=2.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=29998, __TotalActiveNonSpecThreads=29998, __TotalActiveSpecThreads=0
+Sat Dec 19 11:57:08 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 4, 0, /dev/null, /dev/null> | Exec Time: 270 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 53.098444, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=4, DO_SPECULATION=1, time=188.332, StraightExpansions=0.9998, SpeculativeUsefull=0.999867, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=3, NonSpeculativeActiveThreadsPerExpansion=1.5003, SpeculativeActiveThreadsPerExpansion=1.4997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=14995, __SpeculativeThreads=14997, __TotalSpecLoopIterations=7499, __TotalSpecAttempts=7499, __TotalActiveThreads=30000, __TotalActiveNonSpecThreads=15003, __TotalActiveSpecThreads=14997
+Sat Dec 19 12:00:19 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 4, 1, /dev/null, /dev/null> | Exec Time: 188 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.517208, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=0, time=253.057, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 12:04:35 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 8, 0, /dev/null, /dev/null> | Exec Time: 253 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 108.114842, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=8, DO_SPECULATION=1, time=92.4963, StraightExpansions=0.9998, SpeculativeUsefull=0.999867, AverageSpecLoopIterations=2.3336, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.7508, SpeculativeActiveThreadsPerExpansion=2.2497
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=22494, __SpeculativeThreads=22497, __TotalSpecLoopIterations=8751, __TotalSpecAttempts=3750, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=7508, __TotalActiveSpecThreads=22497
+Sat Dec 19 12:06:11 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 8, 1, /dev/null, /dev/null> | Exec Time: 93 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 37.012078, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=0, time=270.183, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 12:10:45 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 16, 0, /dev/null, /dev/null> | Exec Time: 271 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 211.095997, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=16, DO_SPECULATION=1, time=47.3732, StraightExpansions=0.9998, SpeculativeUsefull=0.999875, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.6008, SpeculativeActiveThreadsPerExpansion=2.3997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=23994, __SpeculativeThreads=23997, __TotalSpecLoopIterations=8000, __TotalSpecAttempts=2000, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=6008, __TotalActiveSpecThreads=23997
+Sat Dec 19 12:11:35 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 16, 1, /dev/null, /dev/null> | Exec Time: 47 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.999812, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=0, time=250.002, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 12:15:48 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 32, 0, /dev/null, /dev/null> | Exec Time: 250 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 205.897192, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1, MAX_THREADS=32, DO_SPECULATION=1, time=48.5695, StraightExpansions=0.9998, SpeculativeUsefull=0.999875, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.6008, SpeculativeActiveThreadsPerExpansion=2.3997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=23994, __SpeculativeThreads=23997, __TotalSpecLoopIterations=8000, __TotalSpecAttempts=2000, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=6008, __TotalActiveSpecThreads=23997
+Sat Dec 19 12:16:40 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1, 32, 1, /dev/null, /dev/null> | Exec Time: 49 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 15.633340, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=1, DO_SPECULATION=0, time=639.661, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.9999, NonSpeculativeActiveThreadsPerExpansion=0.9999, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=9999, __TotalActiveNonSpecThreads=9999, __TotalActiveSpecThreads=0
+Sat Dec 19 12:27:23 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 1, 0, /dev/null, /dev/null> | Exec Time: 640 seconds
+
+
+Skipped t1-s1
+Running <inputset/synthetic_straight.txt, 1000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 22.658119, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=0, time=441.345, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.9998, NonSpeculativeActiveThreadsPerExpansion=1.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=19998, __TotalActiveNonSpecThreads=19998, __TotalActiveSpecThreads=0
+Sat Dec 19 12:34:48 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 2, 0, /dev/null, /dev/null> | Exec Time: 442 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 22.598600, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=2, DO_SPECULATION=1, time=442.508, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.9998, NonSpeculativeActiveThreadsPerExpansion=1.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=19998, __TotalActiveNonSpecThreads=19998, __TotalActiveSpecThreads=0
+Sat Dec 19 12:42:13 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 2, 1, /dev/null, /dev/null> | Exec Time: 442 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.836117, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=0, time=251.031, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=2.9998, NonSpeculativeActiveThreadsPerExpansion=2.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=29998, __TotalActiveNonSpecThreads=29998, __TotalActiveSpecThreads=0
+Sat Dec 19 12:46:28 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 4, 0, /dev/null, /dev/null> | Exec Time: 252 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 52.518853, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=4, DO_SPECULATION=1, time=190.41, StraightExpansions=0.9998, SpeculativeUsefull=0.999867, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=3, NonSpeculativeActiveThreadsPerExpansion=1.5003, SpeculativeActiveThreadsPerExpansion=1.4997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=14995, __SpeculativeThreads=14997, __TotalSpecLoopIterations=7499, __TotalSpecAttempts=7499, __TotalActiveThreads=30000, __TotalActiveNonSpecThreads=15003, __TotalActiveSpecThreads=14997
+Sat Dec 19 12:49:41 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 4, 1, /dev/null, /dev/null> | Exec Time: 190 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.313425, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=0, time=254.368, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 12:53:59 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 8, 0, /dev/null, /dev/null> | Exec Time: 255 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 108.810027, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=8, DO_SPECULATION=1, time=91.9055, StraightExpansions=0.9998, SpeculativeUsefull=0.999867, AverageSpecLoopIterations=2.3336, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.7508, SpeculativeActiveThreadsPerExpansion=2.2497
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=22494, __SpeculativeThreads=22497, __TotalSpecLoopIterations=8751, __TotalSpecAttempts=3750, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=7508, __TotalActiveSpecThreads=22497
+Sat Dec 19 12:55:34 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 8, 1, /dev/null, /dev/null> | Exec Time: 92 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.291607, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=0, time=254.51, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 12:59:52 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 16, 0, /dev/null, /dev/null> | Exec Time: 255 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 208.199893, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=16, DO_SPECULATION=1, time=48.0322, StraightExpansions=0.9998, SpeculativeUsefull=0.999875, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.6008, SpeculativeActiveThreadsPerExpansion=2.3997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=23994, __SpeculativeThreads=23997, __TotalSpecLoopIterations=8000, __TotalSpecAttempts=2000, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=6008, __TotalActiveSpecThreads=23997
+Sat Dec 19 13:00:43 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 16, 1, /dev/null, /dev/null> | Exec Time: 48 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.078671, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=0, time=255.896, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 13:05:02 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 32, 0, /dev/null, /dev/null> | Exec Time: 256 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 206.925394, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000, MAX_THREADS=32, DO_SPECULATION=1, time=48.3281, StraightExpansions=0.9998, SpeculativeUsefull=0.999875, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.6008, SpeculativeActiveThreadsPerExpansion=2.3997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=23994, __SpeculativeThreads=23997, __TotalSpecLoopIterations=8000, __TotalSpecAttempts=2000, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=6008, __TotalActiveSpecThreads=23997
+Sat Dec 19 13:05:54 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000, 32, 1, /dev/null, /dev/null> | Exec Time: 49 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 1, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 15.647334, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=1, DO_SPECULATION=0, time=639.088, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=0.9999, NonSpeculativeActiveThreadsPerExpansion=0.9999, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=9999, __TotalActiveNonSpecThreads=9999, __TotalActiveSpecThreads=0
+Sat Dec 19 13:16:36 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 1, 0, /dev/null, /dev/null> | Exec Time: 639 seconds
+
+
+Skipped t1-s1
+Running <inputset/synthetic_straight.txt, 1000000, 2, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 21.822358, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=0, time=458.247, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.9998, NonSpeculativeActiveThreadsPerExpansion=1.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=19998, __TotalActiveNonSpecThreads=19998, __TotalActiveSpecThreads=0
+Sat Dec 19 13:24:17 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 2, 0, /dev/null, /dev/null> | Exec Time: 458 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 2, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 21.809214, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=2, DO_SPECULATION=1, time=458.523, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=1.9998, NonSpeculativeActiveThreadsPerExpansion=1.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=19998, __TotalActiveNonSpecThreads=19998, __TotalActiveSpecThreads=0
+Sat Dec 19 13:31:59 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 2, 1, /dev/null, /dev/null> | Exec Time: 459 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 4, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 38.661764, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=0, time=258.656, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=2.9998, NonSpeculativeActiveThreadsPerExpansion=2.9998, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=29998, __TotalActiveNonSpecThreads=29998, __TotalActiveSpecThreads=0
+Sat Dec 19 13:36:21 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 4, 0, /dev/null, /dev/null> | Exec Time: 259 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 4, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 52.310996, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=4, DO_SPECULATION=1, time=191.167, StraightExpansions=0.9998, SpeculativeUsefull=0.999867, AverageSpecLoopIterations=1, ActiveThreadsPerExpansion=3, NonSpeculativeActiveThreadsPerExpansion=1.5003, SpeculativeActiveThreadsPerExpansion=1.4997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=14995, __SpeculativeThreads=14997, __TotalSpecLoopIterations=7499, __TotalSpecAttempts=7499, __TotalActiveThreads=30000, __TotalActiveNonSpecThreads=15003, __TotalActiveSpecThreads=14997
+Sat Dec 19 13:39:35 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 4, 1, /dev/null, /dev/null> | Exec Time: 191 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 8, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.309715, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=0, time=254.392, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 13:43:53 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 8, 0, /dev/null, /dev/null> | Exec Time: 255 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 8, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 108.686126, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=8, DO_SPECULATION=1, time=92.0102, StraightExpansions=0.9998, SpeculativeUsefull=0.999867, AverageSpecLoopIterations=2.3336, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.7508, SpeculativeActiveThreadsPerExpansion=2.2497
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=22494, __SpeculativeThreads=22497, __TotalSpecLoopIterations=8751, __TotalSpecAttempts=3750, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=7508, __TotalActiveSpecThreads=22497
+Sat Dec 19 13:45:28 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 8, 1, /dev/null, /dev/null> | Exec Time: 92 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 16, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 39.396261, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=0, time=253.834, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 13:49:45 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 16, 0, /dev/null, /dev/null> | Exec Time: 254 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 16, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 208.886451, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=16, DO_SPECULATION=1, time=47.8744, StraightExpansions=0.9998, SpeculativeUsefull=0.999875, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.6008, SpeculativeActiveThreadsPerExpansion=2.3997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=23994, __SpeculativeThreads=23997, __TotalSpecLoopIterations=8000, __TotalSpecAttempts=2000, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=6008, __TotalActiveSpecThreads=23997
+Sat Dec 19 13:50:36 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 16, 1, /dev/null, /dev/null> | Exec Time: 48 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 32, 0, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 38.955807, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=0, time=256.703, StraightExpansions=0.9998, SpeculativeUsefull=-nan, AverageSpecLoopIterations=-nan, ActiveThreadsPerExpansion=3.0002, NonSpeculativeActiveThreadsPerExpansion=3.0002, SpeculativeActiveThreadsPerExpansion=0
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=0, __SpeculativeThreads=0, __TotalSpecLoopIterations=0, __TotalSpecAttempts=0, __TotalActiveThreads=30002, __TotalActiveNonSpecThreads=30002, __TotalActiveSpecThreads=0
+Sat Dec 19 13:54:56 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 32, 0, /dev/null, /dev/null> | Exec Time: 257 seconds
+
+
+Running <inputset/synthetic_straight.txt, 1000000, 32, 1, /dev/null, /dev/null> ...
+Map is created. Map: X=10002, Y=9, Robot: X=2, Y=5, Target: X=10001, Y=5, Collision Threshold: 1
+Expansion per second = 205.093544, totalExpandedNodes=10000
+Results: map_file=inputset/synthetic_straight.txt, EPSILON=1000000, MAX_THREADS=32, DO_SPECULATION=1, time=48.7603, StraightExpansions=0.9998, SpeculativeUsefull=0.999875, AverageSpecLoopIterations=4, ActiveThreadsPerExpansion=3.0005, NonSpeculativeActiveThreadsPerExpansion=0.6008, SpeculativeActiveThreadsPerExpansion=2.3997
+DetailedResults: __StraightExpansions=9998, __TotalExpansions=10000, __SpeculativeUsefull=23994, __SpeculativeThreads=23997, __TotalSpecLoopIterations=8000, __TotalSpecAttempts=2000, __TotalActiveThreads=30005, __TotalActiveNonSpecThreads=6008, __TotalActiveSpecThreads=23997
+Sat Dec 19 13:55:48 EST 2020 | Experiment: <inputset/synthetic_straight.txt, 1000000, 32, 1, /dev/null, /dev/null> | Exec Time: 49 seconds
+
+
